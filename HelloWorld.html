@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HelloWorld</title>
+</head>
+<style>
+    #p1{
+        font-size: 5px;
+        color: coral;
+    }
+    #p2{
+        font-size: 10px;
+        color:lightskyblue;
+    }
+</style>
+
+<body>
+<div>
+    <p id="p1">Hello World</p>
+    <p id="p2">I want to learn Canvas!</p>
+    <p id="p3"></p>
+</div>
+</body>
+<script>
+    let p3 = document.getElementById("p3");
+    setInterval(function() {
+        p3.innerText = (Math.random()*255).toString();
+        p3.style.color = `rgb(${parseInt(Math.random()*255)},${parseInt(Math.random()*255)},${parseInt(Math.random()*255)})`;
+        }, 1000);
+</script>
+</html>
