@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.16/vue.min.js"></script>
+    <script src="https://unpkg.com/vue-router/dist/vue-router.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+</head>
+<body>
+    <div id="app">
+       <router-link to="/login">登录</router-link>
+        <router-link to="/register">注册</router-link>
+        <router-view></router-view>
+    </div>
+</body>
+<script>
+    var App = Vue.extend({});
+
+    var login = Vue.extend({
+        template:'登录'
+    });
+
+    var register = Vue.extend({
+        template:'注册'
+    });
+
+    var router = new VueRouter({
+        routers:[
+            {path:'/login',component:login},
+            {path:'/register',component:register}
+        ]
+    });
+
+    new Vue ({
+        el:'#app',
+        router:router
+    })
+</script>
+</html>

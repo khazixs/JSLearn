@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.16/vue.min.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="https://cdn.bootcss.com/vue-resource/1.2.1/vue-resource.min.js"></script>
+</head>
+<body>
+<div id="app">
+    {{obj | json}}
+    <!--<button @click="getdata">get请求</button>-->
+    <button @click="getdata">post请求提交</button>
+</div>
+<script>
+    new Vue({
+        el: '#app',
+        data: {
+            obj: null
+        },
+        methods: {
+            getdata: function () {
+                let url = 'https://www.easy-mock.com/mock/5b62985970818661082f20d9/forfushine/post';//模拟的数据接口
+                //get方法
+                /* this.$http.get(url).then(function (res) {
+                     this.obj = res.data
+                 })*/
+                this.$http.post(url, {emulateJSON: true}).then(function (res) {
+                    console.log(res)
+                });
+            }
+        }
+    })
+</script>
+</body>
+</html>

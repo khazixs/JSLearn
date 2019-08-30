@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.16/vue.min.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+</head>
+<body>
+<div id="div1">
+    <div v-for="(val, key) in web">
+        {{key}}:{{val}}
+    </div>
+</div>
+
+</body>
+    <script>
+        let vm = new Vue({
+            el:"#div1",
+            data:{
+                web:{
+                    "百度":"https://www.baidu.com",
+                    "搜狐":"https://www.sohu.com",
+                    "新浪":"https://www.sina.com",
+                    "淘宝":"https://www.taobao.com"
+                }
+            }
+        })
+    </script>
+</html>

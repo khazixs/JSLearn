@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-bind="http://www.w3.org/1999/xhtml" xmlns:v-on="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8">
+    <title>my-project</title>
+    <script src="../lib/vue.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <style>
+
+        ul li:first-child {
+
+        }
+
+        .now {
+            font-weight: bold;
+            color: #EE5757;
+        }
+    </style>
+</head>
+<body>
+
+<div id="app5">
+    <ul>
+        <li v-for="(item,key) in list ">{{item}}----{{key}}</li>
+    </ul>
+    <form action="#">
+        <input type="text" v-model="user.name"><br>
+        <input type="password" v-model="user.password"><br>
+        <input type="submit" v-on:click="submit" value="注册"><br>
+    </form>
+    <button v-on:click="toggle">显示与隐藏</button>
+    <h1 v-if="isshow">能看到不?</h1>
+    <h2 v-show="isshow">还能看到不？</h2>
+    <button v-on:click="submit1">提交</button>
+    <input type="text" v-on:keyup.enter="kd"><!--此处采用keyup加修饰符的形式是Vue2新增的，1里用的施keydown-->
+
+</div>
+
+<script>
+    // v-if ,v-show 都能实现对一个元素的隐藏和显示操作，v-if是将这个元素添加或者移除到dom中
+    //而v-show是将这个元素上添加style='display:none'和移除这个style来完成的
+    let vm = new Vue({
+        el: '#app5',
+        data: {
+            list: ['a', 'b', 'c', 'd', 'e'],
+            user: {
+                name: '',
+                password: ''
+            },
+            isshow: false
+        },
+        methods: {
+            submit: function () {
+                alert("注册成功" + '\n' + '您的用户名是' + this.user.name + '\n' + '请保管好您的密码')
+            },
+            toggle: function () {
+                this.isshow = !this.isshow;
+            },
+            submit1:function(){
+                alert('ko');
+            },
+            kd:function () {
+                alert('ok');
+            }
+
+        }
+    })
+</script>
+
+
+<!--div id="app4">
+    <p>{{total}}</p>
+    <button-counter v-on:increment="incremen tTotal"></button-counter>
+    <button-counter v-on:increment="incrementTotal"></button-counter>
+</div>
+
+
+<script>
+
+    Vue.component('button-counter', {
+        template: '<button v-on:click="increment">{{counter}}</button>',
+        data: function () {
+            return {
+                counter: 0
+            }
+        },
+        methods: {
+            increment: function () {
+                this.counter += 1;
+                this.$emit('increment')
+            }
+        }
+    });
+    new Vue({
+        el: "#app4",
+        data: {
+            total: 0
+        },
+        methods: {
+            incrementTotal: function () {
+                this.total += 1
+            }
+        }
+    })
+</script>
+-->
+
+<!--组件应用-->
+<!--<div id="app3">
+    <flash></flash>
+</div>
+
+<script>
+    var tpll =　{
+template: '<li>这里是幻灯片组件</li>'
+    }
+    Vue.component('flash',tpll);
+    new Vue({
+        el:"#app3",
+        data:{
+
+        }
+    })
+</script>-->
+
+
+<!--v-model 数据双向绑定
+<div id="app2">
+    <p>{{ message }}</p>
+    <input v-model="message">
+</div>
+
+<script>
+    var app2 = new Vue({
+        el: '#app2',
+        data: {
+            message: 'Hello Vue.js!'
+        }
+    })
+</script>
+-->
+
+
+<!-- v-on 事件监听指令
+<div id="app2">
+    <p>{{ message }}</p>
+    <button v-on:click="reverseMessage">逆转消息</button>
+</div>
+
+
+<script>
+    var app2 = new Vue({
+        el: '#app2',
+        data: {
+            message: 'Hello Vue.js!'
+        },
+        methods: {
+            reverseMessage: function () {
+                this.message = this.message.split('').reverse().join('')
+            }
+        }
+    })
+</script>
+-->
+
+
+<!-- v-for 循环指令
+<div id="app">
+    <ul>
+        <li  v-for="(value,key) in news" v-bind:class="{now:(key == 3 ||key == 0)}">
+          {{value.title}}{{key}}
+        </li>
+    </ul>
+</div>
+
+<script>
+    let app;
+    app = new Vue({
+        el: "#app",
+        data: {
+            news: [
+                {title: '我爱中国', msg: '中国大好河山', dt: '2018-3-3'},
+                {title: '学习使我快乐', msg: '学习知识真的秀', dt: '2018-3-4'},
+                {title: '学习使我快乐', msg: '学习知识真的秀', dt: '2018-3-4'},
+                {title: '学习使我快乐', msg: '学习知识真的秀', dt: '2018-3-4'},
+                {title: '学习使我快乐', msg: '学习知识真的秀', dt: '2018-3-4'}
+            ]
+        }
+    });
+
+</script>
+-->
+
+
+<!-- v-if 条件判断指令
+<div id="app1">
+    <b v-if="isshow">可看到的《b》这个标签是粗文本</b>
+</div>
+
+<button id="btn" type="button">点击隐藏显示</button>
+
+<script>
+    let app1 = new Vue({
+        el:"#app1",
+        data:{
+            isshow:true
+        }
+    });
+    var btn = document.getElementById('btn');
+    btn.onclick = function () {
+        app1.isshow = !app1.isshow
+    }
+</script>-->
+
+
+</body>
+</html>

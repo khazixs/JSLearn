@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="864e0e90-61d0-4b55-a0be-abfc3b26b64f" name="Default Changelist" comment="">
+      <change afterPath="F:/Go/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="F:/Go/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="F:/Go/Exercise/test.go" afterDir="false" />
+      <change afterPath="F:/Go/test.go" afterDir="false" />
+      <change afterPath="F:/jsbase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="F:/jsbase/Buffering movement.html" afterDir="false" />
+      <change afterPath="F:/jsbase/Delay window.html" afterDir="false" />
+      <change afterPath="F:/jsbase/Digital clock.html" afterDir="false" />
+      <change afterPath="F:/jsbase/Drag.html" afterDir="false" />
+      <change afterPath="F:/jsbase/Multi-object motion.html" afterDir="false" />
+      <change afterPath="F:/jsbase/Seamless scrolling.html" afterDir="false" />
+      <change afterPath="F:/jsbase/Sidebar expansion.html" afterDir="false" />
+      <change afterPath="F:/jsbase/calender.html" afterDir="false" />
+      <change afterPath="F:/jsbase/dom option advanced.html" afterDir="false" />
+      <change afterPath="F:/jsbase/dom options.html" afterDir="false" />
+      <change afterPath="F:/jsbase/flash.html" afterDir="false" />
+      <change afterPath="F:/jsbase/fragment.html" afterDir="false" />
+      <change afterPath="F:/jsbase/getByClass.js" afterDir="false" />
+      <change afterPath="F:/jsbase/hello world.js" afterDir="false" />
+      <change afterPath="F:/jsbase/huanfu.css" afterDir="false" />
+      <change afterPath="F:/jsbase/huanfu1.css" afterDir="false" />
+      <change afterPath="F:/jsbase/img/0.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/1.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/19177.jpg" afterDir="false" />
+      <change afterPath="F:/jsbase/img/2.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/20658.jpg" afterDir="false" />
+      <change afterPath="F:/jsbase/img/27240114.jpg" afterDir="false" />
+      <change afterPath="F:/jsbase/img/3.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/324192.jpg" afterDir="false" />
+      <change afterPath="F:/jsbase/img/4.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/5.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/520988.jpg" afterDir="false" />
+      <change afterPath="F:/jsbase/img/542935.jpg" afterDir="false" />
+      <change afterPath="F:/jsbase/img/6.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/7.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/8.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/9.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/bitcoin.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/lianjie.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/粉色圆形按钮.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/红色圆形按钮.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/蓝色圆形按钮.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/黄色圆形按钮.png" afterDir="false" />
+      <change afterPath="F:/jsbase/move.js" afterDir="false" />
+      <change afterPath="F:/jsbase/picture.html" afterDir="false" />
+      <change afterPath="F:/jsbase/rotate.html" afterDir="false" />
+      <change afterPath="F:/jsbase/sort.html" afterDir="false" />
+      <change afterPath="F:/jsbase/startMove.js" afterDir="false" />
+      <change afterPath="F:/jsbase/sum.js" afterDir="false" />
+      <change afterPath="F:/jsbase/tanwanlanyue.html" afterDir="false" />
+      <change afterPath="F:/jsbase/test.html" afterDir="false" />
+      <change afterPath="F:/jsbase/test.js" afterDir="false" />
+      <change afterPath="F:/jsbase/xuanxiangka.html" afterDir="false" />
+      <change afterPath="F:/vue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="F:/vue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="F:/vue/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="F:/vue/.idea/vue.iml" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/.babelrc" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/.editorconfig" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/.eslintignore" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/.eslintrc.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/.gitignore" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/.postcssrc.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/README.md" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/build/build.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/build/check-versions.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/build/logo.png" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/build/utils.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/config/dev.env.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/config/index.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/config/prod.env.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/config/test.env.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/index.html" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/package-lock.json" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/package.json" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/src/App.vue" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/src/components/Topbar1.vue" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/src/main.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/src/router/index.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/static/.gitkeep" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/static/img/favicon.ico" afterDir="false" />
+      <change afterPath="F:/vue/mall/.babelrc" afterDir="false" />
+      <change afterPath="F:/vue/mall/.editorconfig" afterDir="false" />
+      <change afterPath="F:/vue/mall/.eslintignore" afterDir="false" />
+      <change afterPath="F:/vue/mall/.eslintrc.js" afterDir="false" />
+      <change afterPath="F:/vue/mall/.gitignore" afterDir="false" />
+      <change afterPath="F:/vue/mall/.postcssrc.js" afterDir="false" />
+      <change afterPath="F:/vue/mall/README.md" afterDir="false" />
+      <change afterPath="F:/vue/mall/build/build.js" afterDir="false" />
+      <change afterPath="F:/vue/mall/build/check-versions.js" afterDir="false" />
+      <change afterPath="F:/vue/mall/build/utils.js" afterDir="false" />
+      <change afterPath="F:/vue/mall/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/mall/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/mall/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/mall/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/mall/config/dev.env.js" afterDir="false" />
+      <change afterPath="F:/vue/mall/config/index.js" afterDir="false" />
+      <change afterPath="F:/vue/mall/config/prod.env.js" afterDir="false" />
+      <change afterPath="F:/vue/mall/config/test.env.js" afterDir="false" />
+      <change afterPath="F:/vue/mall/index.html" afterDir="false" />
+      <change afterPath="F:/vue/mall/package.json" afterDir="false" />
+      <change afterPath="F:/vue/mall/src/App.vue" afterDir="false" />
+      <change afterPath="F:/vue/mall/src/assets/logo.png" afterDir="false" />
+      <change afterPath="F:/vue/mall/src/components/TopBar.vue" afterDir="false" />
+      <change afterPath="F:/vue/mall/src/main.js" afterDir="false" />
+      <change afterPath="F:/vue/mall/src/router/index.js" afterDir="false" />
+      <change afterPath="F:/vue/mall/static/.gitkeep" afterDir="false" />
+      <change afterPath="F:/vue/mall/test/unit/.eslintrc" afterDir="false" />
+      <change afterPath="F:/vue/news/.babelrc" afterDir="false" />
+      <change afterPath="F:/vue/news/.editorconfig" afterDir="false" />
+      <change afterPath="F:/vue/news/.eslintignore" afterDir="false" />
+      <change afterPath="F:/vue/news/.eslintrc.js" afterDir="false" />
+      <change afterPath="F:/vue/news/.gitignore" afterDir="false" />
+      <change afterPath="F:/vue/news/.postcssrc.js" afterDir="false" />
+      <change afterPath="F:/vue/news/README.md" afterDir="false" />
+      <change afterPath="F:/vue/news/build/build.js" afterDir="false" />
+      <change afterPath="F:/vue/news/build/check-versions.js" afterDir="false" />
+      <change afterPath="F:/vue/news/build/logo.png" afterDir="false" />
+      <change afterPath="F:/vue/news/build/utils.js" afterDir="false" />
+      <change afterPath="F:/vue/news/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/news/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/news/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/news/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/news/config/dev.env.js" afterDir="false" />
+      <change afterPath="F:/vue/news/config/index.js" afterDir="false" />
+      <change afterPath="F:/vue/news/config/prod.env.js" afterDir="false" />
+      <change afterPath="F:/vue/news/config/test.env.js" afterDir="false" />
+      <change afterPath="F:/vue/news/index.html" afterDir="false" />
+      <change afterPath="F:/vue/news/package.json" afterDir="false" />
+      <change afterPath="F:/vue/news/src/App.vue" afterDir="false" />
+      <change afterPath="F:/vue/news/src/assets/logo.png" afterDir="false" />
+      <change afterPath="F:/vue/news/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="F:/vue/news/src/main.js" afterDir="false" />
+      <change afterPath="F:/vue/news/src/router/index.js" afterDir="false" />
+      <change afterPath="F:/vue/news/static/.gitkeep" afterDir="false" />
+      <change afterPath="F:/vue/news/test/e2e/custom-assertions/elementCount.js" afterDir="false" />
+      <change afterPath="F:/vue/news/test/e2e/nightwatch.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/news/test/e2e/runner.js" afterDir="false" />
+      <change afterPath="F:/vue/news/test/e2e/specs/test.js" afterDir="false" />
+      <change afterPath="F:/vue/news/test/unit/.eslintrc" afterDir="false" />
+      <change afterPath="F:/vue/news/test/unit/jest.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/news/test/unit/setup.js" afterDir="false" />
+      <change afterPath="F:/vue/news/test/unit/specs/HelloWorld.spec.js" afterDir="false" />
+      <change afterPath="F:/vue/vue01/01-getStart/a.txt" afterDir="false" />
+      <change afterPath="F:/vue/vue01/01-getStart/index.html" afterDir="false" />
+      <change afterPath="F:/vue/vue01/01-getStart/test.js" afterDir="false" />
+      <change afterPath="F:/vue/vue01/01-getStart/组件.html" afterDir="false" />
+      <change afterPath="F:/vue/vue01/01-getStart/计算属性.html" afterDir="false" />
+      <change afterPath="F:/vue/vue01/01-getStart/路由.html" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/.idea/dictionaries/.xml" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/1.json" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/ajax.html" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/bm.html" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/filter.html" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/get请求.html" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/master.html" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/package.json" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/router.html" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/yarn.lock" afterDir="false" />
+      <change afterPath="F:/vue/vue01/lib/ajax.js" afterDir="false" />
+      <change afterPath="F:/vue/vue01/lib/vue-resource.min.1.2.1.js" afterDir="false" />
+      <change afterPath="F:/vue/vue01/lib/vue.min.js" afterDir="false" />
+      <change afterPath="F:/vue/vue01/lib/vue01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../event/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../event/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node/from.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house_holder_png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seaexp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seaexp1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seaexp2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seaexp3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seaexp4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/main.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-104537209">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="5" />
+          <entry key="js" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="5" />
+          <entry key="JavaScript" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="146" />
+          <entry key="js" value="143" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="146" />
+          <entry key="JavaScript" value="143" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seaexp.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seaexp2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seaexp1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seaexp3.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="F:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tuunel.html" />
+        <option value="$PROJECT_DIR$/search.js" />
+        <option value="$PROJECT_DIR$/seaexp.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="317" />
+    <option name="y" value="43" />
+    <option name="width" value="1428" />
+    <option name="height" value="1002" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sea_exp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sea_exp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\webstorm\sea_exp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.seaexp.html">
+    <configuration name="seaexp.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/sea_exp/seaexp.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="search.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="search.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.1.js" />
+      <item itemvalue="Node.js.search.js" />
+      <item itemvalue="JavaScript Debug.seaexp.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.seaexp.html" />
+        <item itemvalue="Node.js.1.js" />
+        <item itemvalue="Node.js.search.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="864e0e90-61d0-4b55-a0be-abfc3b26b64f" name="Default Changelist" comment="" />
+      <created>1537692750439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537692750439</updated>
+      <workItem from="1537692752822" duration="104000" />
+      <workItem from="1538364723395" duration="1666000" />
+      <workItem from="1538469033195" duration="1230000" />
+      <workItem from="1538526733453" duration="3010000" />
+      <workItem from="1538634058901" duration="77000" />
+      <workItem from="1538744899640" duration="697000" />
+      <workItem from="1538794945972" duration="728000" />
+      <workItem from="1547453949634" duration="759000" />
+      <workItem from="1547540617643" duration="545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8816000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="317" y="43" width="1428" height="1002" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24927746" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290735" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/search.js" />
+    <entry file="file://$PROJECT_DIR$/tuunel.html" />
+    <entry file="file://$PROJECT_DIR$/seaexp2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seaexp1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seaexp3.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seaexp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

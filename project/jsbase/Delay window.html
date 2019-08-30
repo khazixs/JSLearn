@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>延时窗口</title>
+    <style>
+        #img1 {
+            margin: 10px;
+            float: left;
+        }
+
+        #img2 {
+            display:none;
+            margin: 10px;
+            float: left;
+        }
+    </style>
+    <script>
+        window.onload = function () {
+            let oImg1 = document.getElementById('img1');
+            let oImg2 = document.getElementById('img2');
+            let timer;
+
+            oImg1.onmouseover = oImg2.onmouseover = function () {
+                clearTimeout(timer);
+                oImg2.style.display = 'block';
+            };
+            oImg1.onmouseout = oImg2.onmouseout = function () {
+                timer = setTimeout(function () {
+                    oImg2.style.display = 'none';
+                },500);
+            }
+        }
+    </script>
+</head>
+<body>
+<div id="div1">
+    <img id="img1" src="img/20658.jpg" height="50px" width="50px"/>
+</div>
+<div id="div2">
+    <img id="img2" src="img/lianjie.png" height="248" width="342"/>
+</div>
+</body>
+</html>

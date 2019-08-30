@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <script src='move.js'></script>
+  <title>Document</title>
+  <style>
+  #divMax {
+    position:absolute;
+    left:30%;
+    top:0;
+    background:red;
+    height:400px;
+    width:600px;
+    filter: alpha(opacity:50);
+    margin:0;
+    z-index: -1;
+    padding: 0;
+    opacity: 100;
+    border:3px solid gold;
+    border-bottom: 0;
+  }
+  #div1 {
+    position:absolute;
+    left:30%;
+    top:0;
+    background:black;
+    height:400px;
+    width:601px;
+    filter: alpha(opacity:50);
+    margin: auto;
+    z-index:3;
+    padding:0;
+    opacity:0;
+
+  }
+  #scrDiv {
+    position:absolute;
+    top:400px;
+    left:30%;
+    height:125px;
+    width:606px;
+    filter: alpha(opacity:50);
+    margin: auto;
+    padding:0;
+    overflow: hidden;
+    opacity:1;
+  }
+  #scrDiv ul {
+    border:3px solid gold;
+    position:absolute;
+    height:130px;
+    width:2200px;
+    list-style: none;
+    margin: 0;
+    padding:0;
+  }
+  #scrDiv ul li{
+    float: left;
+  }
+  #div1 #goLeft {
+    margin:auto;
+    float: left;
+    width:300px;
+    height:400px;
+    background:yellow;
+    opacity: 1;
+  }
+  #div1 #goRight {
+    width:300px;
+    float: left;
+    height:400px;
+    background:blue;
+    opacity: 1;
+  }
+  .bigPicture {
+    position:absolute;
+    width:600px;
+    height:400px;
+    opacity: 100;
+  }
+  .smallPicture {
+    width:200px;
+    height: 125px;
+    opacity: 0.3;
+    margin-left:0px;
+  }
+  #inp1{
+    position: fixed;
+  }
+  #inp2{
+    top:50px;
+    position: fixed;
+  }
+  #inp3{
+    top:50px;
+    left:100px;
+    position: fixed;
+  }
+  </style>
+</head>
+<body>
+    <div id='div1' style='z-index:3'>
+      <div id='goLeft'></div>
+      <div id='goRight'></div>
+    </div>
+    <div id='divMax'>
+      <img style='z-index:2' class='bigPicture' src="img/82239.jpg">
+      <img style='z-index:1' class='bigPicture' src="img/329386.jpg">
+      <img style='z-index:0' class='bigPicture' src="img/85305.jpg">
+      <img style='z-index:-1' class='bigPicture' src="img/91659.jpg">
+      <img style='z-index:-2' class='bigPicture' src="img/115508.jpg">
+      <img style='z-index:-3' class='bigPicture' src="img/355538.jpg">
+      <img style='z-index:-4' class='bigPicture' src="img/627080.png">
+      <img style='z-index:-5' class='bigPicture' src="img/647060.png">
+      <img style='z-index:-6' class='bigPicture' src="img/736461.png">
+      <img style='z-index:-7' class='bigPicture' src="img/742320.png">
+      <img style='z-index:-8' class='bigPicture' src="img/745025.png">
+      <img style='z-index:-9' class='bigPicture' src="img/27240114.jpg">
+      <img style='z-index:-10' class='bigPicture' src="img/724769.jpg">
+      <img style='z-index:-11' class='bigPicture' src="img/520988.jpg">
+      <img style='z-index:-12' class='bigPicture' src="img/82235.jpeg">
+
+    </div>
+
+  <div id='scrDiv'>
+    <ul>
+      <li ><img class='smallPicture' src="img/82239.jpg"></li>
+      <li style='z-index:0'><img class='smallPicture' src="img/329386.jpg"></li>
+      <li style='z-index:0'><img class='smallPicture' src="img/85305.jpg"></li>
+      <li style='z-index:0'><img class='smallPicture' src="img/91659.jpg"></li>
+      <li style='z-index:0'><img class='smallPicture' src="img/115508.jpg"></li>
+      <li style='z-index:0'><img class='smallPicture' src="img/355538.jpg"></li>
+      <li style='z-index:0'><img class='smallPicture' src="img/627080.png"></li>
+      <li style='z-index:0'><img class='smallPicture' src="img/647060.png"></li>
+      <li style='z-index:0'><img class='smallPicture' src="img/736461.png"></li>
+      <li style='z-index:0'><img class='smallPicture' src="img/742320.png"></li>
+      <li style='z-index:0'><img class='smallPicture' src="img/745025.png"></li>
+      <li style='z-index:0'><img class='smallPicture' src="img/27240114.jpg"></li>
+      <li style='z-index:0'><img class='smallPicture' src="img/724769.jpg"></li>
+      <li style='z-index:0'><img class='smallPicture' src="img/520988.jpg"></li>
+      <li style='z-index:0'><img class='smallPicture' src="img/82235.jpeg"></li>
+    </ul>
+  </div>
+<input id='inp1' type="text" placeholder="图片路径" value=''>
+<input id='inp2' type="button" value='添加入画册'>
+<!--<input id='inp3' type="button" value='从画册删除'>-->
+</body>
+<script>
+window.onload = function(){
+  let oDivMax = document.getElementById('divMax');
+  let oScrDiv = document.getElementById('scrDiv');
+  let oUl = oScrDiv.getElementsByTagName('ul')[0];
+  let aBigImg = oDivMax.getElementsByTagName('img');
+  let aLi = oUl.getElementsByTagName('li');
+  let aSmallImg = oUl.getElementsByTagName('img');
+  let oDiv1 = document.getElementById('div1');
+  let oDivLeft = document.getElementById('goLeft');
+  let oDivRight = document.getElementById('goRight');
+  let oTxt = document.getElementById('inp1');
+  let oBtn = document.getElementById('inp2');
+  let oBtn1 = document.getElementById('inp3');
+  let index = 2;//记录当前图片的层级数
+  let index2 = 0;//记录当前图片是在数组的几号位
+  light();
+  oBtn.onclick = function(){
+    let a = new RegExp(`${oTxt.value}`);
+    function test1(i){  
+      if(a.test(aSmallImg[i].src)){
+        return result = false;
+      }else{
+        i += 1;
+        if(i < aLi.length){
+            test1(i);
+        }else{
+          return result = true;
+        }
+      }
+      return result;
+    }
+    let fff = test1(0);
+    if(fff){
+      let newLi = document.createElement("li");
+      let newImg = document.createElement("img");
+
+
+      oUl.appendChild(newLi);
+      newLi.appendChild(newImg);
+      newImg.src = oTxt.value;
+      newImg.style.opacity = 0.3;
+      newImg.className = 'smallPicture';
+      newLi.style.zIndex = 0;
+
+
+      let newBigImg =  document.createElement("img");
+      oDivMax.appendChild(newBigImg);
+      newBigImg.src = oTxt.value;
+      newBigImg.className = 'bigPicture';
+      oUl.style.width = aLi.length*200 + 6 + 'px';
+      newBigImg.style.zIndex = -aLi.length + 3;
+      oBtn.style.background = `rgb(${colorCreat()},${colorCreat()},${colorCreat()})`;
+    }else{
+      alert("不能够插入已经存在的图片到相册中。" + '\n' + "如果添加成功的话提交按钮会变色哟！！！QAQ");//换行好好记住；
+    }
+
+  };
+  document.getElementsByTagName('body')[0].onmouseover = function(){
+    oUl.style.width = aLi.length*200 + 6 + 'px';
+        mouseLight();
+  };
+  function colorCreat() {
+      return parseInt(Math.random() * 255)//获取0-255随机数，因为使用三原色模式，256种颜色
+  }
+  oUl.style.width = aLi.length*200 + 6 + 'px';
+  mouseLight();
+  function mouseLight(){
+    for(let i = 0;i < aLi.length;i++){
+      aLi[i].onmouseover = function(){
+        index2 = i;
+        light();
+        if(parseInt(getComputedStyle(aBigImg[i],false)['zIndex']) === index){
+        }else{
+          aBigImg[i].style.zIndex = index + 1;
+          aBigImg[i].style.height = 0;
+          startMove(aBigImg[i],'height',400);
+          index += 1;
+          oDiv1.style.zIndex = getComputedStyle(oDiv1,false)['zIndex'] + 1
+        }
+      }
+    }
+  }
+
+
+  oDivRight.onclick = function(){
+    if(index2 === aLi.length - 1){
+        alert('已经是最后一张了');
+    }else{
+      index2 += 1;
+      aBigImg[index2].style.zIndex = index + 1;
+      aBigImg[index2].style.height = 0;
+      startMove(aBigImg[index2],'height',400);
+      index += 1;
+      oDiv1.style.zIndex = getComputedStyle(oDiv1,false)['zIndex'] + 1;
+      light();
+      if(index2 === 0 ||index2 === 1){
+        oUl.style.left = 0;
+      }else if(index2 === aLi.length ||index2 === (aLi.length - 1)){
+        oUl.style.left = -200*(aLi.length - 3) + 'px';
+      }else{
+        oUl.style.left = -200*(index2 - 1) + 'px';
+      }
+    }
+  }
+  oDivLeft.onclick = function(){
+    if(index2 === 0){
+        alert('已经是第一张了');
+    }else{
+      number2 = 0;
+      index2 += -1;
+      aBigImg[index2].style.zIndex = index + 1;
+      aBigImg[index2].style.height = 0;
+      startMove(aBigImg[index2],'height',400);
+      index += 1;
+      oDiv1.style.zIndex = getComputedStyle(oDiv1,false)['zIndex'] + 1;
+      light();
+      if(index2 === 0 || index2 === 1){
+        oUl.style.left = 0;
+      }else if(index2 === aLi.length ||index2 === (aLi.length - 1)){
+        oUl.style.left = -200*(aLi.length - 3) + 'px';
+      }else{
+        oUl.style.left = -200*(index2 - 1) + 'px';
+      }
+    }
+  }
+
+  function light(){
+    console.log('index2:' + index2);
+    for (let i = 0;i < aSmallImg.length;i++){
+      aSmallImg[i].style.opacity = 0.3;
+    }
+    aSmallImg[index2].style.opacity = 1;
+  }
+}
+</script>
+</html>

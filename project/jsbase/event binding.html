@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  <button id='btn'/>按钮</button>
+  <p>
+    为同一事件添加多个函数的方法，事件绑定，IE7使用attachEvent ,chrome firefox IE9使用的是addEventListener，，，此处注意两种函数的写法不同；
+  </p>
+</body>
+<script>
+  window.onload = function () {
+    let oBtn = document.getElementById('btn');
+    if(oBtn.attachEvent){
+      oBtn.attachEvent('onclick',function(){
+        alert('a');
+      })
+      oBtn.attachEvent('onclick',function(){
+        alert('b');
+      })
+    } else {
+      oBtn.addEventListener('click',function(){
+        alert('a');
+      },false)
+      oBtn.addEventListener('click',function(){
+        alert('b');
+      },false)
+    }
+  }
+</script>
+</html>

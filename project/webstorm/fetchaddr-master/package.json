@@ -1,0 +1,26 @@
+{
+  "name": "fetchaddr",
+  "version": "0.0.1",
+  "description": "fetch planty addresses from MacOS version",
+  "main": "run.js",
+  "dependencies": {
+    "bitcoind-rpc": "^0.6.0",
+    "express": "4.15.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tcash",
+    "altcoin",
+    "ico"
+  ],
+  "author": "Jonathan (tiny calf)",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "homepage": ""
+}

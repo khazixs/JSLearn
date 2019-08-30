@@ -1,0 +1,1607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05688741-b7c3-4c52-a4e5-7c5247845ed7" name="Default Changelist" comment="">
+      <change afterPath="F:/jsbase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="F:/jsbase/2.png" afterDir="false" />
+      <change afterPath="F:/jsbase/Buffering movement.html" afterDir="false" />
+      <change afterPath="F:/jsbase/Delay window.html" afterDir="false" />
+      <change afterPath="F:/jsbase/Digital clock.html" afterDir="false" />
+      <change afterPath="F:/jsbase/Drag.html" afterDir="false" />
+      <change afterPath="F:/jsbase/Multi-object motion.html" afterDir="false" />
+      <change afterPath="F:/jsbase/Seamless scrolling.html" afterDir="false" />
+      <change afterPath="F:/jsbase/Sidebar expansion.html" afterDir="false" />
+      <change afterPath="F:/jsbase/calender.html" afterDir="false" />
+      <change afterPath="F:/jsbase/dom option advanced.html" afterDir="false" />
+      <change afterPath="F:/jsbase/dom options.html" afterDir="false" />
+      <change afterPath="F:/jsbase/flash.html" afterDir="false" />
+      <change afterPath="F:/jsbase/fragment.html" afterDir="false" />
+      <change afterPath="F:/jsbase/fuxuananniu.html" afterDir="false" />
+      <change afterPath="F:/jsbase/getByClass.js" afterDir="false" />
+      <change afterPath="F:/jsbase/huanfu.css" afterDir="false" />
+      <change afterPath="F:/jsbase/huanfu1.css" afterDir="false" />
+      <change afterPath="F:/jsbase/img/0.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/1.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/19177.jpg" afterDir="false" />
+      <change afterPath="F:/jsbase/img/2.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/20658.jpg" afterDir="false" />
+      <change afterPath="F:/jsbase/img/27240114.jpg" afterDir="false" />
+      <change afterPath="F:/jsbase/img/3.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/324192.jpg" afterDir="false" />
+      <change afterPath="F:/jsbase/img/4.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/5.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/520988.jpg" afterDir="false" />
+      <change afterPath="F:/jsbase/img/542935.jpg" afterDir="false" />
+      <change afterPath="F:/jsbase/img/6.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/7.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/8.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/9.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/bitcoin.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/lianjie.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/粉色圆形按钮.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/红色圆形按钮.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/蓝色圆形按钮.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/黄色圆形按钮.png" afterDir="false" />
+      <change afterPath="F:/jsbase/mouseanddiv.html" afterDir="false" />
+      <change afterPath="F:/jsbase/move.js" afterDir="false" />
+      <change afterPath="F:/jsbase/picture.html" afterDir="false" />
+      <change afterPath="F:/jsbase/rotate.html" afterDir="false" />
+      <change afterPath="F:/jsbase/sort.html" afterDir="false" />
+      <change afterPath="F:/jsbase/startMove.js" afterDir="false" />
+      <change afterPath="F:/jsbase/tanwanlanyue.html" afterDir="false" />
+      <change afterPath="F:/jsbase/test.html" afterDir="false" />
+      <change afterPath="F:/jsbase/test.js" afterDir="false" />
+      <change afterPath="F:/jsbase/xuanxiangka.html" afterDir="false" />
+      <change afterPath="F:/jsbase/电商平台前端接口.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/build/dev-client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/build/dev-server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/build/webpack.test.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/config/test.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/parts-r-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/parts-r-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/rec-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/rec-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/rec-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/rec-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/rec-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/relate-l-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/relate-l-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/relate-r-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/relate-r-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/relate-r-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/relate-r-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/relate-r-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/relate-r-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/relate-r-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/relate-r-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/renew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/rjcd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/sh2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/sim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/stargoods-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/stargoods-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/stargoods-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/stargoods-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/stargoods-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/text-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/tiemo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/toudai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/tyj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/tzc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/win.74c0d23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/wlyx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/xiancai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/xiangbao.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/xiaomiNOTE2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/xm6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/xmad-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/xmad-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/xmad-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/xmad-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/xmad-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/xmad_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/xmad_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/xmad_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/xmds4a_43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/xmds4a_49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/xmds_49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/xmds_55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/xmds_65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/xmjzej.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/xmlyq3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/xmvrplay2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/ydx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/yidongdianyuan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/yinxiang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/zazhi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/zhijia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/zhoubian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/img/zipaigan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/js/app.470d4a50ea16698820fc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/js/app.470d4a50ea16698820fc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/js/manifest.8a4aaa5d659b3cbffd72.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/js/manifest.8a4aaa5d659b3cbffd72.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/js/vendor.4cb55913600978c9f6f2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/dist/static/js/vendor.4cb55913600978c9f6f2.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/src/components/Collocation.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/src/components/HeaderMenu.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/src/components/Hello.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/src/components/HotGoods.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/src/components/HouseholdAppliances.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/src/components/Intelligence.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/src/components/MainCarousel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/src/components/MainNav.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/src/components/MainPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/src/components/MainRecommend.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/src/components/MiContent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/src/components/MiFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/src/components/MiVideo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/src/components/Parts.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/src/components/Recommend.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/src/components/RelatedProducts.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/src/components/StarGoods.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/src/components/TopBar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/src/components/TopHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/3C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/3G.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/5Battery.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/5splus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/7Battery.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/HD-Pro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/MIX.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/assets/icon-search-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/assets/icon-search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/assets/icon-slides.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/assets/info-logo-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/assets/info-logo-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/assets/info-logo-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/assets/info-logo-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/assets/logo-mi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/assets/play-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/assets/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/assets/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/assets/slogan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/assets/win.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/baohu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/bijiben12.5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/bijiben13.3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/buyphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/c1xb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/chongdianqi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/chongzhi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/cilimao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/coll-l-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/coll-l-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/coll-r-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/coll-r-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/coll-r-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/coll-r-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/coll-r-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/coll-r-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/coll-r-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/coll-r-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/cunchu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/dfb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/dianyuan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/dianyuanfujian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/fdq2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/gift.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/h-a-left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/h-a-r-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/h-a-r-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/h-a-r-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/h-a-r-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/h-a-r-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/h-a-r-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/h-a-r-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiStore-by-Vue-master/static/img/h-a-r-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/config/test.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/src/components/Topbar1.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jingdong/static/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/config/test.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/test/e2e/custom-assertions/elementCount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/test/e2e/nightwatch.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/test/e2e/runner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/test/e2e/specs/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/test/unit/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/test/unit/jest.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/test/unit/setup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/test/unit/specs/HelloWorld.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-getStart/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-getStart/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-getStart/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-getStart/组件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-getStart/计算属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-getStart/路由.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-begin/.idea/dictionaries/.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-begin/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-begin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-begin/1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-begin/ajax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-begin/bm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-begin/filter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-begin/get请求.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-begin/master.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-begin/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-begin/router.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-begin/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/vue-resource.min.1.2.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/vue.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/vue01.js" afterDir="false" />
+      <change afterPath="F:/webstorm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="F:/webstorm/event/1.html" afterDir="false" />
+      <change afterPath="F:/webstorm/event/index.html" afterDir="false" />
+      <change afterPath="F:/webstorm/node/from.html" afterDir="false" />
+      <change afterPath="F:/webstorm/package.json" afterDir="false" />
+      <change afterPath="F:/webstorm/sea_exp/1.js" afterDir="false" />
+      <change afterPath="F:/webstorm/sea_exp/package.json" afterDir="false" />
+      <change afterPath="F:/webstorm/sea_exp/seaexp.html" afterDir="false" />
+      <change afterPath="F:/webstorm/sea_exp/seaexp1.html" afterDir="false" />
+      <change afterPath="F:/webstorm/sea_exp/seaexp2.html" afterDir="false" />
+      <change afterPath="F:/webstorm/sea_exp/seaexp3.html" afterDir="false" />
+      <change afterPath="F:/webstorm/sea_exp/seaexp4.html" afterDir="false" />
+      <change afterPath="F:/webstorm/sea_exp/test.js" afterDir="false" />
+      <change afterPath="F:/webstorm/sea_exp/yarn.lock" afterDir="false" />
+      <change afterPath="F:/webstorm/sum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="F:/webstorm/test/index.html" afterDir="false" />
+      <change afterPath="F:/webstorm/test/main.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1190414319">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02-begin/master.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="F:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/02-begin/master.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/02-begin/node_modules" />
+    <handled-path value="$PROJECT_DIR$/vue-exercise/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/02-begin/node_modules/absolute/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/ajv/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/ansi-escapes/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/ansi-red/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/ansi-wrap/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/argparse/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/array-differ/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/array-union/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/array-uniq/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/arrify/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/base64-js/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/bl/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/buffer-alloc-unsafe/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/buffer-alloc/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/buffer-crc32/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/buffer-fill/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/buffer/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/builtins/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/capture-stack-trace/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/caw/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/chardet/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/cli-cursor/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/cli-spinners/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/cli-width/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/co-from-stream/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/co-fs-extra/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/co-read/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/coffee-script/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/config-chain/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/consolidate/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/create-error-class/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/decompress-tar/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/decompress-tarbz2/node_modules/file-type/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/decompress-tarbz2/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/decompress-targz/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/decompress-unzip/node_modules/file-type/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/decompress-unzip/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/decompress-unzip/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/decompress/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/download-git-repo/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/download/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/duplexer3/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/enable/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/end-of-stream/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/external-editor/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/fd-slicer/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/figures/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/file-type/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/filename-reserved-regex/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/filenamify/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/fs-constants/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/fs-extra/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/get-proxy/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/git-clone/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/got/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/graceful-readlink/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/gray-matter/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/handlebars/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/handlebars/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/has-generators/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/has-symbol-support-x/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/has-to-string-tag-x/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/ieee754/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/inquirer/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/is-natural-number/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/is-object/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/is-promise/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/is-redirect/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/is-retry-allowed/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/is-utf8/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/is/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/isurl/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/js-yaml/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/jsonfile/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/klaw/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/log-symbols/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/lowercase-keys/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/make-dir/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/make-dir/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/metalsmith/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/metalsmith/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/metalsmith/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/metalsmith/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/metalsmith/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/mimic-fn/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/mkdirp/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/multimatch/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/mute-stream/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/npm-conf/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/npm-conf/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/onetime/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/optimist/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/ora/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/pend/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/pinkie-promise/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/pinkie/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/prepend-http/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/proto-list/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/psl/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/read-metadata/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/recursive-readdir/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/restore-cursor/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/run-async/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/rxjs/ajax/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/rxjs/internal-compatibility/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/rxjs/operators/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/rxjs/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/rxjs/src/ajax/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/rxjs/src/internal-compatibility/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/rxjs/src/operators/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/rxjs/src/testing/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/rxjs/src/webSocket/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/rxjs/testing/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/rxjs/webSocket/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/seek-bzip/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/seek-bzip/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/sprintf-js/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/stat-mode/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/strip-ansi/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/strip-dirs/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/strip-outer/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/tar-stream/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/through/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/thunkify-wrap/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/thunkify/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/tildify/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/timed-out/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/tmp/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/to-buffer/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/toml/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/trim-repeated/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/tslib/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/uid/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/unbzip2-stream/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/unyield/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/unzip-response/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/url-parse-lax/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/url-to-options/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/user-home/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/validate-npm-package-name/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/verror/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/vue-cli/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/vue-cli/test/e2e/mock-skip-glob/template/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/vue-cli/test/e2e/mock-template-repo/template/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/vue/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/ware/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/win-fork/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/wrap-fn/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/yaml-js/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/node_modules/yauzl/package.json" />
+      <path value="$PROJECT_DIR$/02-begin/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/acorn-dynamic-import/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/acorn-dynamic-import/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/ajv-keywords/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/alphanum-sort/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/ansi-html/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/anymatch/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/argparse/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/arr-flatten/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/arr-union/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/array-find-index/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/array-includes/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/array-union/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/array-uniq/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/asn1.js/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/assert/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/assert/node_modules/util/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/assert/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/assign-symbols/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/async-each/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/atob/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/autoprefixer/node_modules/browserslist/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/autoprefixer/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-code-frame/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-core/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-generator/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-helper-builder-binary-assignment-operator-visitor/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-helper-call-delegate/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-helper-define-map/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-helper-explode-assignable-expression/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-helper-function-name/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-helper-get-function-arity/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-helper-hoist-variables/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-helper-optimise-call-expression/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-helper-regex/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-helper-remap-async-to-generator/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-helper-replace-supers/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-helpers/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-loader/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-messages/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-check-es2015-constants/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-syntax-async-functions/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-syntax-async-generators/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-syntax-exponentiation-operator/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-syntax-object-rest-spread/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-syntax-trailing-function-commas/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-async-generator-functions/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-async-to-generator/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-es2015-arrow-functions/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-es2015-block-scoped-functions/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-es2015-block-scoping/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-es2015-classes/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-es2015-computed-properties/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-es2015-destructuring/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-es2015-duplicate-keys/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-es2015-for-of/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-es2015-function-name/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-es2015-literals/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-es2015-modules-amd/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-es2015-modules-commonjs/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-es2015-modules-systemjs/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-es2015-modules-umd/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-es2015-object-super/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-es2015-parameters/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-es2015-shorthand-properties/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-es2015-spread/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-es2015-sticky-regex/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-es2015-template-literals/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-es2015-typeof-symbol/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-es2015-unicode-regex/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-exponentiation-operator/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-object-rest-spread/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-regenerator/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-plugin-transform-strict-mode/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-preset-env/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-preset-stage-3/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-register/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-runtime/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-template/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-traverse/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babel-types/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/babylon/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/base/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/base/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/base/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/base/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/base/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/base/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/base64-js/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/batch/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/big.js/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/binary-extensions/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/bn.js/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/bonjour/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/braces/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/brorand/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/browserify-aes/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/browserify-cipher/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/browserify-des/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/browserify-rsa/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/browserify-sign/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/browserify-zlib/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/browserslist/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/buffer-indexof/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/buffer-xor/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/buffer/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/builtin-modules/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/builtin-status-codes/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/cache-base/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/camelcase-keys/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/camelcase-keys/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/caniuse-api/node_modules/browserslist/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/caniuse-api/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/caniuse-db/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/caniuse-lite/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/chokidar/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/cipher-base/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/clap/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/class-utils/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/class-utils/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/coa/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/collection-visit/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/color-string/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/color/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/colormin/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/commondir/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/compressible/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/compression/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/connect-history-api-fallback/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/console-browserify/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/consolidate/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/constants-browserify/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/convert-source-map/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/copy-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/cosmiconfig/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/cosmiconfig/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/create-ecdh/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/create-hash/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/create-hmac/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/cross-env/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/crypto-browserify/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/css-color-names/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/css-loader/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/css-selector-tokenizer/node_modules/regexpu-core/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/css-selector-tokenizer/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/cssesc/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/cssnano/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/csso/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/currently-unhandled/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/d/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/date-now/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/de-indent/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/decode-uri-component/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/define-properties/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/define-property/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/define-property/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/define-property/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/define-property/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/defined/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/del/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/des.js/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/detect-indent/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/detect-node/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/diffie-hellman/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/dns-equal/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/dns-packet/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/dns-txt/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/domain-browser/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/electron-to-chromium/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/elliptic/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/emojis-list/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/enhanced-resolve/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/errno/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/error-ex/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/es-abstract/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/es-to-primitive/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/es5-ext/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/es6-iterator/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/es6-map/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/es6-set/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/es6-symbol/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/es6-weak-map/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/escope/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/esrecurse/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/estraverse/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/esutils/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/event-emitter/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/eventemitter3/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/events/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/eventsource/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/evp_bytestokey/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/execa/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/execa/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/expand-brackets/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/expand-brackets/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/expand-range/node_modules/fill-range/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/expand-range/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/expand-range/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/expand-range/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/express/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/express/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/extend-shallow/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/extglob/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/extglob/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/extglob/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/extglob/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/extglob/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/extglob/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/fastparse/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/faye-websocket/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/file-loader/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/filename-regex/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/fill-range/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/fill-range/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/find-cache-dir/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/flatten/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/follow-redirects/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/follow-redirects/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/for-in/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/for-own/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/foreach/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/fragment-cache/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/function-bind/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/get-caller-file/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/get-stdin/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/get-value/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/glob-base/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/glob-base/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/glob-base/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/glob-base/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/glob-parent/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/globals/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/globby/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/globby/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/handle-thing/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/has-values/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/has/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/hash-base/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/hash-sum/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/hash.js/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/he/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/hmac-drbg/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/home-or-tmp/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/hosted-git-info/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/hpack.js/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/html-comment-regex/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/html-entities/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/http-deceiver/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/http-parser-js/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/http-proxy-middleware/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/http-proxy-middleware/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/http-proxy-middleware/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/http-proxy-middleware/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/http-proxy-middleware/node_modules/extglob/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/http-proxy-middleware/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/http-proxy-middleware/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/http-proxy-middleware/node_modules/micromatch/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/http-proxy-middleware/node_modules/micromatch/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/http-proxy-middleware/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/http-proxy-middleware/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/http-proxy/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/https-browserify/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/icss-replace-symbols/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/icss-utils/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/icss-utils/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/icss-utils/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/icss-utils/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/icss-utils/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/icss-utils/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/icss-utils/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/ieee754/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/import-local/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/indent-string/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/indexes-of/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/internal-ip/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/interpret/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/invariant/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/invert-kv/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/ip/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-absolute-url/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-arrayish/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-binary-path/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-builtin-module/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-callable/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-date-object/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-directory/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-dotfile/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-equal-shallow/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-finite/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-path-cwd/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-path-in-cwd/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-path-inside/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-plain-obj/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-plain-object/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-posix-bracket/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-primitive/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-regex/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-svg/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-symbol/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-utf8/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-windows/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/is-wsl/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/isexe/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/js-base64/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/js-tokens/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/js-yaml/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/json-loader/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/json3/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/json5/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/killable/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/lcid/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/load-json-file/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/load-json-file/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/loader-runner/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/loader-utils/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/locate-path/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/lodash.camelcase/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/lodash.debounce/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/lodash.memoize/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/lodash.uniq/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/loglevel/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/loose-envify/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/loud-rejection/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/make-dir/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/map-cache/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/map-obj/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/map-visit/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/math-expression-evaluator/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/math-random/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/md5.js/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/mem/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/memory-fs/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/meow/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/meow/node_modules/load-json-file/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/meow/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/meow/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/meow/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/meow/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/meow/node_modules/read-pkg-up/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/meow/node_modules/read-pkg/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/meow/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/meow/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/micromatch/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/miller-rabin/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/mimic-fn/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/minimalistic-assert/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/minimalistic-crypto-utils/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/mixin-deep/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/mixin-deep/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/multicast-dns-service-types/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/multicast-dns/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/nanomatch/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/nanomatch/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/neo-async/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/next-tick/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/nice-try/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/node-forge/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/node-libs-browser/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/node-libs-browser/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/normalize-package-data/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/normalize-path/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/normalize-range/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/normalize-url/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/npm-run-path/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/num2fraction/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/object-copy/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/object-copy/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/object-keys/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/object-visit/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/object.omit/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/object.pick/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/obuf/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/on-headers/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/opn/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/original/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/os-browserify/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/os-locale/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/p-finally/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/p-limit/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/p-locate/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/p-map/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/p-try/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/pako/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/parse-asn1/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/parse-glob/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/parse-glob/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/parse-glob/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/parse-json/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/pascalcase/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/path-browserify/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/path-dirname/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/path-is-inside/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/path-key/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/path-parse/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/path-type/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/pbkdf2/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/pinkie-promise/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/pinkie/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/pkg-dir/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/portfinder/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/portfinder/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/posix-character-classes/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-calc/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-colormin/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-convert-values/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-discard-comments/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-discard-duplicates/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-discard-empty/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-discard-overridden/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-discard-unused/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-filter-plugins/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-load-config/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-load-options/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-load-plugins/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-merge-idents/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-merge-longhand/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-merge-rules/node_modules/browserslist/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-merge-rules/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-message-helpers/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-minify-font-values/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-minify-gradients/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-minify-params/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-minify-selectors/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-extract-imports/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-extract-imports/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-extract-imports/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-extract-imports/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-extract-imports/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-extract-imports/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-extract-imports/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-local-by-default/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-local-by-default/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-local-by-default/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-local-by-default/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-local-by-default/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-local-by-default/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-local-by-default/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-scope/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-scope/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-scope/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-scope/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-scope/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-scope/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-scope/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-values/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-values/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-values/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-values/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-values/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-values/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-modules-values/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-normalize-charset/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-normalize-url/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-ordered-values/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-reduce-idents/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-reduce-initial/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-reduce-transforms/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-selector-parser/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-svgo/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-unique-selectors/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-value-parser/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss-zindex/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/prepend-http/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/preserve/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/prettier/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/private/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/process/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/prr/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/pseudomap/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/public-encrypt/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/q/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/query-string/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/querystring-es3/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/querystring/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/querystringify/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/randomatic/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/randomatic/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/randomatic/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/randombytes/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/randomfill/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/read-pkg-up/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/read-pkg/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/readdirp/examples/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/readdirp/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/redent/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/reduce-css-calc/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/reduce-css-calc/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/reduce-function-call/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/reduce-function-call/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/regenerate/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/regenerator-transform/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/regex-cache/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/regex-not/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/regexpu-core/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/regjsgen/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/regjsparser/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/regjsparser/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/remove-trailing-separator/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/repeat-element/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/repeating/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/require-directory/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/require-from-string/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/require-main-filename/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/requires-port/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/resolve-cwd/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/resolve-url/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/resolve/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/resolve/test/module_dir/zmodules/bbb/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/resolve/test/resolver/baz/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/resolve/test/resolver/browser_field/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/resolve/test/resolver/dot_main/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/resolve/test/resolver/dot_slash_main/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/resolve/test/resolver/incorrect_main/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/ret/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/ripemd160/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/safe-regex/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/sax/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/select-hose/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/selfsigned/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/serve-index/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/set-immediate-shim/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/set-value/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/setimmediate/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/sha.js/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/shebang-command/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/shebang-regex/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/slash/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/snapdragon-node/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/snapdragon-node/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/snapdragon-node/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/snapdragon-node/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/snapdragon-node/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/snapdragon-node/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/snapdragon-util/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/snapdragon/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/snapdragon/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/snapdragon/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/sockjs-client/node_modules/faye-websocket/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/sockjs-client/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/sockjs/examples/echo/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/sockjs/examples/express-3.x/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/sockjs/examples/express/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/sockjs/examples/hapi/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/sockjs/examples/koa/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/sockjs/examples/multiplex/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/sockjs/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/sort-keys/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/source-list-map/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/source-map-resolve/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/source-map-support/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/source-map-url/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/spdx-correct/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/spdx-exceptions/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/spdx-expression-parse/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/spdx-license-ids/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/spdy-transport/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/spdy/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/split-string/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/sprintf-js/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/static-extend/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/static-extend/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/stream-browserify/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/stream-http/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/stream-http/test/browser/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/strict-uri-encode/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/string-width/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/string-width/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/string-width/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/strip-eof/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/strip-indent/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/svgo/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/tapable/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/thunky/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/time-stamp/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/timers-browserify/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/to-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/to-fast-properties/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/to-object-path/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/to-regex-range/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/to-regex/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/trim-newlines/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/trim-right/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/tty-browserify/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/uglify-js/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/uglifyjs-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/union-value/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/union-value/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/union-value/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/uniq/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/uniqs/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/unset-value/node_modules/has-value/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/unset-value/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/unset-value/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/unset-value/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/upath/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/uri-js/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/urix/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/url-parse/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/url/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/url/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/use/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/util/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/validate-npm-package-license/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/vendors/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/vm-browserify/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/vue-hot-reload-api/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/vue-loader/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/vue-loader/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/vue-loader/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/vue-loader/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/vue-loader/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/vue-loader/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/vue-loader/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/vue-style-loader/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/vue-template-compiler/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/vue-template-es2015-compiler/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/vue/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/watchpack/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/wbuf/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-dev-middleware/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-dev-middleware/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-dev-server/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-dev-server/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-dev-server/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-dev-server/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-dev-server/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-dev-server/node_modules/load-json-file/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-dev-server/node_modules/os-locale/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-dev-server/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-dev-server/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-dev-server/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-dev-server/node_modules/read-pkg-up/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-dev-server/node_modules/read-pkg/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-dev-server/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-dev-server/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-dev-server/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-dev-server/node_modules/which-module/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-dev-server/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-dev-server/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-dev-server/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-sources/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack-sources/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/webpack/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/websocket-driver/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/websocket-extensions/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/whet.extend/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/which-module/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/which/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/wrap-ansi/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/wrap-ansi/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/y18n/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/yargs-parser/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/yargs/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/yargs/node_modules/cliui/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/yargs/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/vue-exercise/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="398" />
+    <option name="y" value="77" />
+    <option name="width" value="1364" />
+    <option name="height" value="921" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vue01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue01" type="462c0819:PsiDirectoryNode" />
+              <item name="02-begin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05688741-b7c3-4c52-a4e5-7c5247845ed7" name="Default Changelist" comment="" />
+      <created>1535421214017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535421214017</updated>
+      <workItem from="1535421218640" duration="36000" />
+      <workItem from="1535421396695" duration="643000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="679000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="398" y="77" width="1364" height="921" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/02-begin/master.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

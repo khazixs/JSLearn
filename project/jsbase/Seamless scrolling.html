@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Seamless scrolling</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        #div1 {
+            position: relative;
+            width: 712px;
+            height: 100px;
+            margin: 100px auto;
+            background: red;
+            overflow: hidden;
+            display: flex;
+        }
+        #div1 img {
+            flex:1;
+        }
+        #div1 ul {
+            flex:2;
+            width: 1428px;
+            height: 100px;
+            position: absolute;
+            left: 0;
+            top: 0;
+            background: #bf5bff;
+        }
+        #div1 ul li {
+            float: left;
+            width: 178px;
+            height: 100px;
+            list-style-type: none;
+
+        }
+        #img1 {
+            width: 80px;
+            height: 80px;
+            top:110px;
+            left:80%;
+            position: absolute;
+        }
+        #img2 {
+            width: 80px;
+            height: 80px;
+            top: 110px;
+            left: 20%;
+            position: absolute;
+        }
+        .classImg1 {
+            width: 178px ;
+            height: 100px;
+        }
+    </style>
+</head>
+<body>
+<img id="img1" src="img/红色圆形按钮.png" />
+<img id="img2" src="img/黄色圆形按钮.png" />
+<div id="div1">
+
+    <ul>
+        <li><img class="classImg1" src="img/19177.jpg" /></li>
+        <li><img class="classImg1" src="img/324192.jpg" /></li>
+        <li><img class="classImg1" src="img/520988.jpg" /></li>
+        <li><img class="classImg1" src="img/542935.jpg" /></li>
+    </ul>
+
+</div>
+
+</body>
+<script>
+    let oUl = document.getElementsByTagName('ul')[0];
+    oUl.innerHTML = oUl.innerHTML + oUl.innerHTML;
+    let speed = 2;
+    let timer;
+    let oImg1 = document.getElementById('img1');
+    let oImg2 = document.getElementById('img2');
+    let oDiv = document.getElementById('div1');
+    function move() {
+        if (oUl.offsetLeft < -oUl.offsetWidth / 2) {
+            oUl.style.left = '0';
+        }
+        if (oUl.offsetLeft > 0) {
+            oUl.style.left = -oUl.offsetWidth / 2 + 'px';
+        }
+        oUl.style.left = oUl.offsetLeft + speed + 'px';
+    }
+    oImg1.onmouseover = function(){
+        oImg1.src = "img/粉色圆形按钮.png";
+    };
+    oImg1.onmouseout = function(){
+        oImg1.src = "img/红色圆形按钮.png";
+    };
+    oImg2.onmouseover = function(){
+        oImg2.src = "img/蓝色圆形按钮.png";
+    };
+    oImg2.onmouseout = function(){
+        oImg2.src = "img/黄色圆形按钮.png";
+    };
+    oImg1.onclick = function(){
+        speed = 2;
+    };
+    oImg1.ondblclick = function(){
+        speed = 10;
+    };
+    oImg2.onclick = function(){
+        speed = -2;
+    };
+    oImg2.ondblclick = function(){
+        speed = -10;
+    };
+    oDiv.onmouseover = function(){
+        clearTimeout(timer);
+    };
+    oDiv.onmouseout = function(){
+        timer = setInterval(move, 30);
+    };
+    timer = setInterval(move, 30);
+</script>
+</html>

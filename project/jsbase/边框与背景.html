@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>边框与背景</title>
+	<style type="text/css">
+		p{
+			/* background-color: purple; */
+			font-size: 25px;
+			font-weight: bolder;
+			font-family: "仿宋";
+			display: block;
+		}
+		#div1{
+			background-image: url('C:\\Users\\洗衣机\\Pictures\\Saved Pictures\\img_0030.jpg');
+			background-size:100% 100%;
+			width: 400px;
+			height: 200px;
+			margin: auto;
+		}
+		#div11{
+			position: relative;
+			background-color: white;
+			width: 200px;
+			height: 100px;
+			top: 22px;
+			left: 27%;
+			display: table-cell;
+			vertical-align: middle;
+			text-align: center;
+			border: 30px solid hsla(0,0%,100%,.5);
+			background-clip: padding-box;/* border-box_背景被裁减到边框盒；padding-box_背景被裁减到内边距框；content-box_背景被裁减到内容框 */
+		}
+		#div2{
+			position: relative;
+			top: 40px;
+			margin: auto;
+			background-color: yellowgreen;
+			height: 200px;
+			width: 400px;
+			box-shadow: 0 0 0 10px #655,
+						0 0 0 15px deeppink,
+						0 5px 10px 25px rgba(0,0,0,.6)
+						/*四周阴影属性
+						box-shadow: h-shadow v-shadow blur spread color inset;
+						h-shadow	必需。水平阴影的位置。允许负值。	测试
+						v-shadow	必需。垂直阴影的位置。允许负值。	测试
+						blur		可选。模糊距离。	测试
+						spread		可选。阴影的尺寸。	测试
+						color		可选。阴影的颜色。请参阅 CSS 颜色值。	测试
+						inset		可选。将外部阴影 (outset) 改为内部阴影。 */
+		}
+		#div3{
+			position: relative;
+			top: 100px;
+			margin: auto;
+			background-color: orange;
+			height: 200px;
+			width: 400px;
+			border: 10px solid #655;
+			outline: 5px solid deeppink;/* 描边属性 */
+		}
+		#div4{
+			position: relative;
+			top: 0px;
+			margin: auto;
+			border-radius: .8em;
+			padding: 1em;
+			background-color: orange;
+			height: 200px;
+			width: 400px;
+			box-shadow: 0 0 0 .5em #655;
+			outline: .6em solid #655;
+
+		}
+		#div5{
+			position: relative;
+			top: 0px;
+			margin: auto;
+			background: linear-gradient(#fb3,#58a);
+			height: 200px;
+			width: 400px;
+		}
+		#div6{
+			position: relative;
+			top: 0px;
+			margin: auto;
+			background: linear-gradient(#fb3 30%,#58a 0%);
+			background-size: 100% 30px;
+			height: 200px;
+			width: 400px;
+		}
+		#div7{
+			position: relative;
+			top: 0px;
+			margin: auto;
+			background: linear-gradient(to right, #fb3 50%,#58a 0%);
+			background-size: 30px 100%;
+			height: 200px;
+			width: 400px;
+		}
+		#div8{
+			position: relative;
+			top: 0px;
+			margin: auto;
+			background: repeating-linear-gradient(135deg,#fb3, #fb3 15px,#58a 0px,#58a 30px);
+			height: 200px;
+			width: 400px;
+		}
+		#div9{
+			position: relative;
+			top: 40px;
+			margin: auto;
+			background-color: #58a;
+			background-image: repeating-linear-gradient(135deg,
+				hsla(0,0%,100%,.1),
+				hsla(0, 0%, 100%, .1) 15px,
+				transparent 0,transparent 30px);
+			height: 200px;
+			width: 400px;
+		}
+		#div10{
+			position: relative;
+			top: 0px;
+			margin: auto;
+			background-color: #655;
+			background-image: radial-gradient(tan 30%,transparent 0);
+			background-size: 30px 30px;
+			height: 200px;
+			width: 400px;
+		}
+		#div12{
+			position: relative;
+			top: 0px;
+			margin: auto;
+			background-color: #58a;
+			background-image:
+				linear-gradient(white 2px,transparent 0),
+				linear-gradient(90deg ,white 2px,transparent 0),
+				linear-gradient(hsla(0,0%,100%,.3) 1px,transparent 0),
+				linear-gradient(90deg ,hsla(0,0%,100%,.3) 1px,transparent 0);
+			background-size: 75px 75px, 75px 75px,15px 15px,15px 15px;
+			height: 200px;
+			width: 400px;
+		}
+	</style>
+</head>
+<body>
+	<p>透明边框</p>
+	<div id="div1">
+		<div id="div11">
+			Can i haz semi- <br> transparent boeders? <br>
+			Pretty please?
+		</div>
+	</div>
+	<p>利用盒子阴影做多重边框</p>
+	<div style="background-color: white;height:550px;">
+		<div id="div2"></div>
+		<div id="div3"></div>
+	</div>
+	<p style="position: relative;top:0px;">边框内圆角</p>
+	<div id="div4"></div>
+	<p>渐变色背景</p>
+	<div id='div5'></div>
+	<p>条纹背景</p>
+	<div id="div6"></div>
+	<p>垂直条纹背景</p>
+	<div id="div7"></div>
+	<p>斜条纹背景</p>
+	<div style="background-color: white;height:450px;">
+		<div id="div8"></div>
+		<div id="div9"></div>
+	</div>
+	<p>波点背景</p>
+	<div id="div10"></div>
+	<p>蓝图网格背景</p>
+	<div id="div12"></div>
+</body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>//此处onload表示页面加载完成时执行，要不然会报错，或者可以把script放在底端（保证良好的编码习惯）
+        window.onload = function(){
+
+            let btn1 = document.getElementById('btn1');
+            let btn2 = document.getElementById('btn2');
+            let btn3 = document.getElementById('btn3');
+            let oInput = document.getElementsByTagName('input');
+            btn1.onclick = function(){
+                for(let i = 0;i < oInput.length;i++){
+                    oInput[i].checked = true;
+                }
+            };
+            btn2.onclick = function(){
+                for(let i = 0;i < oInput.length;i++){
+                    oInput[i].checked = false;
+                }
+            };
+            btn3.onclick = function(){
+                for(let i = 0;i < oInput.length;i++){
+                    oInput[i].checked === true ? oInput[i].checked = false : oInput[i].checked = true;
+                }
+            }
+
+        }
+
+
+
+    </script>
+</head>
+<body>
+    <input id="btn1" type="button" value="全选"/>
+    <input id="btn2" type="button" value="不选"/>
+    <input id="btn3" type="button" value="反选"/><br>
+    <input type="checkbox" /><br>
+    <input type="checkbox" /><br>
+    <input type="checkbox" /><br>
+    <input type="checkbox" /><br>
+    <input type="checkbox" /><br>
+    <input type="checkbox" /><br>
+    <input type="checkbox" /><br>
+    <input type="checkbox" /><br>
+    <input type="checkbox" /><br>
+    <input type="checkbox" /><br>
+    <input type="checkbox" /><br>
+    <input type="checkbox" /><br>
+    <input type="checkbox" /><br>
+    <input type="checkbox" /><br>
+</body>
+
+</html>

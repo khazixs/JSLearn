@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div {
+            width: 10px;
+            height: 10px;
+            position: absolute;
+            font-weight: bold;
+            font-size: 40px;
+            visibility: hidden;
+        }
+        body {
+            overflow: hidden;
+        }
+    </style>
+
+</head>
+<body>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</body>
+<script>
+    window.addEventListener("load", function () {
+        for (let i = aDiv.length - 1; i > 0; i--) {
+            aDiv[i].innerHTML = parseInt(Math.random() * 10);//产生0到10的随机数，因为random函数默认产生0到1的随机数
+        }
+    });
+    function getPos(ev) {
+        let scrollTop = document.documentElement.scrollTop || document.body.scrollTop;//垂直滚动的值，用并解决兼容性问题
+        let scrollLeft = document.documentElement.scrollLeft || document.body.scrollLeft;
+        return {
+            x: scrollLeft + ev.clientX,
+            y: scrollTop + ev.clientY
+        }
+    }
+    var aDiv = document.getElementsByTagName('div');//获得div元素的数组
+    document.onmousemove = function (ev) {
+        let oEvent = ev || event;//兼容获取事件对象，只有事件监听函数才能获得事件对象
+        let pos = getPos(oEvent);
+        a = {...pos};
+        for (let i = aDiv.length - 1; i > 0; i--) {
+            setTimeout(function () {
+                aDiv[i].style.visibility = 'visible';
+                aDiv[i].style.left = (aDiv[i - 1].offsetLeft + 20) + 'px';
+                aDiv[i].style.top = (aDiv[i - 1].offsetTop) + 'px';
+                aDiv[i].style.color = `rgb(${colorCreat()},${colorCreat()},${colorCreat()})`;//三原色模式生成颜色
+                function colorCreat() {
+                    return parseInt(Math.random() * 255)//获取0-255随机数，因为使用三原色模式，256种颜色
+                }
+            })
+        }
+        aDiv[0].style.left = (pos.x + 10) + 'px';
+        aDiv[0].style.top = (pos.y) + 'px';
+    };
+    let a = {x: null, y: null};
+    let temp = null;//中间缓存位置信息的变量
+    setInterval(function () {     //定时检测鼠标位置是否发生改变
+        if (temp) {
+            if (temp.x === a.x && temp.y === a.y) {
+                hidden();
+            }
+            temp = {...a}
+        } else {
+
+            if (a.x != null) {
+                console.log(a);
+                temp = {...a}
+            }
+        }
+    }, 30);
+
+    function hidden() {
+        for (let i = 0; i < aDiv.length; i++) {
+            aDiv[i].style.visibility = 'hidden';
+        }
+    }
+</script>
+</html>

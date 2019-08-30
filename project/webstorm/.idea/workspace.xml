@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a26785e8-7413-45c0-ad6a-f1f3fe91a104" name="Default Changelist" comment="">
+      <change afterPath="F:/jsbase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="F:/jsbase/2.png" afterDir="false" />
+      <change afterPath="F:/jsbase/Buffering movement.html" afterDir="false" />
+      <change afterPath="F:/jsbase/Delay window.html" afterDir="false" />
+      <change afterPath="F:/jsbase/Digital clock.html" afterDir="false" />
+      <change afterPath="F:/jsbase/Drag.html" afterDir="false" />
+      <change afterPath="F:/jsbase/Multi-object motion.html" afterDir="false" />
+      <change afterPath="F:/jsbase/Seamless scrolling.html" afterDir="false" />
+      <change afterPath="F:/jsbase/Sidebar expansion.html" afterDir="false" />
+      <change afterPath="F:/jsbase/calender.html" afterDir="false" />
+      <change afterPath="F:/jsbase/dom option advanced.html" afterDir="false" />
+      <change afterPath="F:/jsbase/dom options.html" afterDir="false" />
+      <change afterPath="F:/jsbase/flash.html" afterDir="false" />
+      <change afterPath="F:/jsbase/fragment.html" afterDir="false" />
+      <change afterPath="F:/jsbase/fuxuananniu.html" afterDir="false" />
+      <change afterPath="F:/jsbase/getByClass.js" afterDir="false" />
+      <change afterPath="F:/jsbase/huanfu.css" afterDir="false" />
+      <change afterPath="F:/jsbase/huanfu1.css" afterDir="false" />
+      <change afterPath="F:/jsbase/img/0.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/1.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/19177.jpg" afterDir="false" />
+      <change afterPath="F:/jsbase/img/2.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/20658.jpg" afterDir="false" />
+      <change afterPath="F:/jsbase/img/27240114.jpg" afterDir="false" />
+      <change afterPath="F:/jsbase/img/3.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/324192.jpg" afterDir="false" />
+      <change afterPath="F:/jsbase/img/4.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/5.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/520988.jpg" afterDir="false" />
+      <change afterPath="F:/jsbase/img/542935.jpg" afterDir="false" />
+      <change afterPath="F:/jsbase/img/6.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/7.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/8.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/9.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/bitcoin.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/lianjie.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/粉色圆形按钮.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/红色圆形按钮.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/蓝色圆形按钮.png" afterDir="false" />
+      <change afterPath="F:/jsbase/img/黄色圆形按钮.png" afterDir="false" />
+      <change afterPath="F:/jsbase/mouseanddiv.html" afterDir="false" />
+      <change afterPath="F:/jsbase/move.js" afterDir="false" />
+      <change afterPath="F:/jsbase/picture.html" afterDir="false" />
+      <change afterPath="F:/jsbase/rotate.html" afterDir="false" />
+      <change afterPath="F:/jsbase/sort.html" afterDir="false" />
+      <change afterPath="F:/jsbase/startMove.js" afterDir="false" />
+      <change afterPath="F:/jsbase/tanwanlanyue.html" afterDir="false" />
+      <change afterPath="F:/jsbase/test.html" afterDir="false" />
+      <change afterPath="F:/jsbase/test.js" afterDir="false" />
+      <change afterPath="F:/jsbase/xuanxiangka.html" afterDir="false" />
+      <change afterPath="F:/jsbase/电商平台前端接口.png" afterDir="false" />
+      <change afterPath="F:/vue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="F:/vue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="F:/vue/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="F:/vue/.idea/vue.iml" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/.babelrc" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/.editorconfig" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/.eslintignore" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/.eslintrc.js" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/.gitignore" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/.postcssrc.js" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/README.md" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/build/build.js" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/build/check-versions.js" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/build/dev-client.js" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/build/dev-server.js" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/build/utils.js" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/build/webpack.test.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/config/dev.env.js" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/config/index.js" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/config/prod.env.js" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/config/test.env.js" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/index.html" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/parts-r-7.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/parts-r-8.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/rec-1.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/rec-2.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/rec-3.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/rec-4.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/rec-5.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/relate-l-1.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/relate-l-2.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/relate-r-1.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/relate-r-2.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/relate-r-3.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/relate-r-4.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/relate-r-5.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/relate-r-6.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/relate-r-7.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/relate-r-8.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/renew.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/right.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/rjcd.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/sh2.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/sim.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/stargoods-1.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/stargoods-2.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/stargoods-3.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/stargoods-4.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/stargoods-5.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/text-logo.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/tiemo.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/toudai.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/tyj.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/tzc.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/win.74c0d23.gif" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/wlyx.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/xiancai.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/xiangbao.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/xiaomiNOTE2.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/xm6.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/xmad-1.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/xmad-2.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/xmad-3.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/xmad-4.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/xmad-5.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/xmad_1.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/xmad_2.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/xmad_3.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/xmds4a_43.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/xmds4a_49.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/xmds_49.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/xmds_55.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/xmds_65.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/xmjzej.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/xmlyq3.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/xmvrplay2.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/ydx.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/yidongdianyuan.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/yinxiang.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/zazhi.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/zhijia.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/zhoubian.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/img/zipaigan.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/js/app.470d4a50ea16698820fc.js" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/js/app.470d4a50ea16698820fc.js.map" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/js/manifest.8a4aaa5d659b3cbffd72.js" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/js/manifest.8a4aaa5d659b3cbffd72.js.map" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/js/vendor.4cb55913600978c9f6f2.js" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/dist/static/js/vendor.4cb55913600978c9f6f2.js.map" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/index.html" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/package.json" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/src/App.vue" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/src/components/Collocation.vue" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/src/components/HeaderMenu.vue" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/src/components/Hello.vue" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/src/components/HotGoods.vue" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/src/components/HouseholdAppliances.vue" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/src/components/Intelligence.vue" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/src/components/MainCarousel.vue" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/src/components/MainNav.vue" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/src/components/MainPage.vue" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/src/components/MainRecommend.vue" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/src/components/MiContent.vue" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/src/components/MiFooter.vue" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/src/components/MiVideo.vue" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/src/components/Parts.vue" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/src/components/Recommend.vue" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/src/components/RelatedProducts.vue" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/src/components/StarGoods.vue" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/src/components/TopBar.vue" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/src/components/TopHeader.vue" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/src/main.js" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/src/router/index.js" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/.gitkeep" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/3C.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/3G.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/5Battery.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/5splus.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/7Battery.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/HD-Pro.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/MIX.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/assets/icon-search-white.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/assets/icon-search.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/assets/icon-slides.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/assets/info-logo-1.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/assets/info-logo-2.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/assets/info-logo-3.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/assets/info-logo-4.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/assets/logo-mi.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/assets/logo.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/assets/play-active.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/assets/play.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/assets/reset.css" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/assets/slogan.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/assets/win.gif" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/baohu.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/bijiben12.5.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/bijiben13.3.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/buyphone.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/c1xb.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/chongdianqi.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/chongzhi.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/cilimao.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/coll-l-1.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/coll-l-2.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/coll-r-1.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/coll-r-2.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/coll-r-3.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/coll-r-4.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/coll-r-5.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/coll-r-6.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/coll-r-7.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/coll-r-8.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/cunchu.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/dfb.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/dianyuan.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/dianyuanfujian.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/favicon.ico" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/fdq2.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/gift.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/h-a-left.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/h-a-r-1.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/h-a-r-2.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/h-a-r-3.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/h-a-r-4.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/h-a-r-5.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/h-a-r-6.jpg" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/h-a-r-7.png" afterDir="false" />
+      <change afterPath="F:/vue/MiStore-by-Vue-master/static/img/h-a-r-8.jpg" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/.babelrc" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/.editorconfig" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/.eslintignore" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/.eslintrc.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/.gitignore" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/.postcssrc.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/README.md" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/build/build.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/build/check-versions.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/build/logo.png" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/build/utils.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/config/dev.env.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/config/index.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/config/prod.env.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/config/test.env.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/index.html" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/package-lock.json" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/package.json" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/src/App.vue" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/src/components/Topbar1.vue" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/src/main.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/src/router/index.js" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/static/.gitkeep" afterDir="false" />
+      <change afterPath="F:/vue/jingdong/static/img/favicon.ico" afterDir="false" />
+      <change afterPath="F:/vue/news/.babelrc" afterDir="false" />
+      <change afterPath="F:/vue/news/.editorconfig" afterDir="false" />
+      <change afterPath="F:/vue/news/.eslintignore" afterDir="false" />
+      <change afterPath="F:/vue/news/.eslintrc.js" afterDir="false" />
+      <change afterPath="F:/vue/news/.gitignore" afterDir="false" />
+      <change afterPath="F:/vue/news/.postcssrc.js" afterDir="false" />
+      <change afterPath="F:/vue/news/README.md" afterDir="false" />
+      <change afterPath="F:/vue/news/build/build.js" afterDir="false" />
+      <change afterPath="F:/vue/news/build/check-versions.js" afterDir="false" />
+      <change afterPath="F:/vue/news/build/logo.png" afterDir="false" />
+      <change afterPath="F:/vue/news/build/utils.js" afterDir="false" />
+      <change afterPath="F:/vue/news/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/news/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/news/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/news/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/news/config/dev.env.js" afterDir="false" />
+      <change afterPath="F:/vue/news/config/index.js" afterDir="false" />
+      <change afterPath="F:/vue/news/config/prod.env.js" afterDir="false" />
+      <change afterPath="F:/vue/news/config/test.env.js" afterDir="false" />
+      <change afterPath="F:/vue/news/index.html" afterDir="false" />
+      <change afterPath="F:/vue/news/package.json" afterDir="false" />
+      <change afterPath="F:/vue/news/src/App.vue" afterDir="false" />
+      <change afterPath="F:/vue/news/src/assets/logo.png" afterDir="false" />
+      <change afterPath="F:/vue/news/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="F:/vue/news/src/main.js" afterDir="false" />
+      <change afterPath="F:/vue/news/src/router/index.js" afterDir="false" />
+      <change afterPath="F:/vue/news/static/.gitkeep" afterDir="false" />
+      <change afterPath="F:/vue/news/test/e2e/custom-assertions/elementCount.js" afterDir="false" />
+      <change afterPath="F:/vue/news/test/e2e/nightwatch.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/news/test/e2e/runner.js" afterDir="false" />
+      <change afterPath="F:/vue/news/test/e2e/specs/test.js" afterDir="false" />
+      <change afterPath="F:/vue/news/test/unit/.eslintrc" afterDir="false" />
+      <change afterPath="F:/vue/news/test/unit/jest.conf.js" afterDir="false" />
+      <change afterPath="F:/vue/news/test/unit/setup.js" afterDir="false" />
+      <change afterPath="F:/vue/news/test/unit/specs/HelloWorld.spec.js" afterDir="false" />
+      <change afterPath="F:/vue/vue01/01-getStart/a.txt" afterDir="false" />
+      <change afterPath="F:/vue/vue01/01-getStart/index.html" afterDir="false" />
+      <change afterPath="F:/vue/vue01/01-getStart/test.js" afterDir="false" />
+      <change afterPath="F:/vue/vue01/01-getStart/组件.html" afterDir="false" />
+      <change afterPath="F:/vue/vue01/01-getStart/计算属性.html" afterDir="false" />
+      <change afterPath="F:/vue/vue01/01-getStart/路由.html" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/.idea/dictionaries/.xml" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/1.json" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/ajax.html" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/bm.html" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/filter.html" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/get请求.html" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/package.json" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/router.html" afterDir="false" />
+      <change afterPath="F:/vue/vue01/02-begin/yarn.lock" afterDir="false" />
+      <change afterPath="F:/vue/vue01/lib/ajax.js" afterDir="false" />
+      <change afterPath="F:/vue/vue01/lib/vue-resource.min.1.2.1.js" afterDir="false" />
+      <change afterPath="F:/vue/vue01/lib/vue.min.js" afterDir="false" />
+      <change afterPath="F:/vue/vue01/lib/vue01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/from.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sea_exp/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sea_exp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sea_exp/seaexp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sea_exp/seaexp1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sea_exp/seaexp2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sea_exp/seaexp3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sea_exp/seaexp4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sea_exp/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sea_exp/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/main.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="959014575">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="conf" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="5" />
+          <entry key="js" value="5" />
+          <entry key="json" value="2" />
+          <entry key="lock" value="1" />
+          <entry key="pug" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="5" />
+          <entry key="JSON" value="2" />
+          <entry key="Jade" value="1" />
+          <entry key="JavaScript" value="5" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="yarn.lock" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/event/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/event/1.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fetchaddr-master/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fetchaddr-master/bitcoin.conf">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reglogin/server.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reglogin/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reglogin/routes/users.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/reglogin/views/error.pug">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="F:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/main.js" />
+        <option value="F:/vue/vue01/02-begin/bm.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/fetchaddr-master/node_modules" />
+    <handled-path value="$PROJECT_DIR$/sea_exp/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/bitcoind-rpc/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/accepts/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/accepts/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/finalhandler/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/finalhandler/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/finalhandler/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/send/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/send/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/send/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/send/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/type-is/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/type-is/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/fetchaddr-master/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/browser-stdout/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/diff/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express-static/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/graceful-readlink/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/growl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/he/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/json3/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/lodash._baseassign/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/lodash._basecopy/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/lodash._basecreate/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/lodash._getnative/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/lodash._isiterateecall/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/lodash.create/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/lodash.isarguments/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/lodash.isarray/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/lodash.keys/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mail2/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mocha/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/mocha/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/vue/package.json" />
+      <path value="$PROJECT_DIR$/node/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/@types/babel-types/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/@types/babylon/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/acorn-globals/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/acorn-globals/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/babel-runtime/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/babel-types/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/babylon/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/basic-auth/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/character-parser/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/clean-css/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/constantinople/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/cookie-parser/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/doctypes/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/esutils/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/function-bind/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/graceful-readlink/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/has/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/is-expression/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/is-expression/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/is-promise/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/is-regex/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/js-stringify/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/jstransformer/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/morgan/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/on-headers/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/path-parse/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/pug-attrs/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/pug-code-gen/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/pug-error/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/pug-filters/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/pug-lexer/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/pug-linker/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/pug-load/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/pug-parser/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/pug-runtime/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/pug-strip-comments/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/pug-walk/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/pug/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/resolve/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/resolve/test/module_dir/zmodules/bbb/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/resolve/test/resolver/baz/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/resolve/test/resolver/browser_field/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/resolve/test/resolver/dot_main/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/resolve/test/resolver/dot_slash_main/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/resolve/test/resolver/incorrect_main/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/to-fast-properties/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/token-stream/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/void-elements/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/with/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/reglogin/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/sea_exp/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="300" />
+    <option name="y" value="79" />
+    <option name="width" value="1364" />
+    <option name="height" value="943" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="webstorm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webstorm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webstorm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webstorm" type="462c0819:PsiDirectoryNode" />
+              <item name="event" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webstorm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webstorm" type="462c0819:PsiDirectoryNode" />
+              <item name="fetchaddr-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webstorm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webstorm" type="462c0819:PsiDirectoryNode" />
+              <item name="fetchaddr-master" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webstorm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webstorm" type="462c0819:PsiDirectoryNode" />
+              <item name="reglogin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webstorm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webstorm" type="462c0819:PsiDirectoryNode" />
+              <item name="reglogin" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webstorm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webstorm" type="462c0819:PsiDirectoryNode" />
+              <item name="sea_exp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webstorm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webstorm" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.main.js">
+    <configuration name="1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="1.js" working-dir="$PROJECT_DIR$/sea_exp">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/test">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.main.js" />
+      <item itemvalue="Node.js.1.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.main.js" />
+        <item itemvalue="Node.js.1.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a26785e8-7413-45c0-ad6a-f1f3fe91a104" name="Default Changelist" comment="" />
+      <created>1533550971350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533550971350</updated>
+      <workItem from="1533550973728" duration="882000" />
+      <workItem from="1533603773219" duration="1094000" />
+      <workItem from="1535122211232" duration="638000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2614000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17547569" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32962963" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.27700534" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sea_exp/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sea_exp/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sea_exp/seaexp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sea_exp/1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/vue/vue01/02-begin/bm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2133">
+          <caret line="130" column="43" lean-forward="true" selection-start-line="130" selection-start-column="43" selection-end-line="130" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event/1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetchaddr-master/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetchaddr-master/bitcoin.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reglogin/server.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reglogin/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reglogin/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reglogin/views/error.pug">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

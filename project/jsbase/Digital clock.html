@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en" style="height:100%;">
+<head>
+    <meta charset="UTF-8">
+    <title>Digital clock</title>
+    <style>
+    *{
+      margin: 0;
+      padding: 0;
+    }/*利用通配符去边缘的白边*/
+        body {
+          height: 100%;
+          background-image: url("img/27240114.jpg");
+          background-repeat: no-repeat;
+          background-size: 100% 100%;
+        }
+        #div1 {
+            font-size: 120px;
+            color:white;
+            margin:auto;
+            text-align: center;
+
+        }
+        #bitimg {
+            width: 80px;
+            height: 80px;
+            position:absolute;
+            top: 55%;
+            left:4%;
+            transform: rotateY(0deg);
+            float: left;
+        }
+        img {
+            position: relative;
+            margin: 0;
+            top: 15px;
+        }
+    </style>
+
+    <script>
+        window.onload = function () {
+            let oDiv = document.getElementById('div1')
+            let aImg = oDiv.getElementsByTagName('img');
+
+            function addZero(value) {
+                if (value < 10) {
+                    return "0" + value
+                } else {
+                    return '' + value
+                }
+            }
+
+            function displayTime() {
+                let time = new Date();
+                let hour = time.getHours();
+                let minutes = time.getMinutes();
+                let seconds = time.getSeconds();
+                let result = addZero(hour) + addZero(minutes) + addZero(seconds);
+                console.log(result);
+                for (let i = 0; i < aImg.length; i++) {
+                    aImg[i].src = "img/" + result[i] + ".png";
+                }
+            }
+            displayTime();
+            setInterval(displayTime,30);
+
+            /*alert(hour);*/
+            let a = document.getElementById('bitimg');
+            let i = 120;
+            setInterval(function () {
+                i += 20;
+                console.log(i);
+                a.style.transform = `rotateY(${i}deg)`;
+            },100)
+
+        };
+
+    </script>
+</head>
+<body>
+<img id="bitimg" src="img/bitcoin.png"/>
+<div id="div1">
+    <img src="img/0.png" height="100" width="80"/>
+    <img src="img/0.png" height="100" width="80"/>
+    :
+    <img src="img/0.png" height="100" width="80"/>
+    <img src="img/0.png" height="100" width="80"/>
+    :
+    <img src="img/0.png" height="100" width="80"/>
+    <img src="img/0.png" height="100" width="80"/>
+</div>
+</body>
+
+</html>

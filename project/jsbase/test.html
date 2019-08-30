@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Find the buried treasure!</title>
+	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+	<h1 id="heading">Find the buried treasure!</h1>
+
+	<img id="map" src="http://nostarch.com/images/treasuremap.png">
+	<p id="distance"></p>
+</body>
+	<script type="text/javascript">
+		let getRandomNumber = function(size){
+			return Math.floor(Math.random()*size)
+		}
+
+		let width = 400;
+		let height = 400;
+
+		let target = {
+			x:getRandomNumber(width),
+			y:getRandomNumber(height)
+		};
+
+		let clicks = 0;
+		let getDistance = function(event,target){
+			let diffx = event.offsetX - target.x;
+			let diffy = event.offsetY - target.y;
+			return Math.sqrt((diffx*diffx)+(diffy*diffy))
+		}
+
+		$("map").click(function(event){
+			clicks++;
+		});
+
+		var getDistanceHint = function(distance){
+			if(distance < 10){
+				return "Boiling"
+			}
+		}
+	</script>
+</html>

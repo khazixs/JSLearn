@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        window.onload = function () {
+            let oInp = document.getElementById('inp1');
+            let oUl = document.getElementById('ul1');
+            let oTxt = document.getElementById('txt1');
+            let aLi = document.getElementsByTagName('li');
+            let aA = document.getElementsByTagName('a');
+            oInp.onclick = function () {
+                let oLi = document.createElement('li');//创建节点
+                /*let day =  new Date();
+                 oUl.appendChild(oLi);//插入子节点，格式：父节点.appendChild(子节点),在末尾插入
+                 oLi.innerHTML = day.getDate();*/
+                oUl.insertBefore(oLi, aLi[0]);//在aLi[0]前插入元素并占据该位置
+                oLi.innerText = oTxt.value;
+                oTxt.value = '';
+            };
+            for (let i = 0; i < aA.length; i++) {
+                aA[i].onclick = function () {
+                    oUl.removeChild(this.parentNode);
+                }
+            }
+
+        }
+    </script>
+</head>
+<body>
+
+<label for="txt1"></label><input id="txt1" type="text" value=""/>
+<input id="inp1" type="button" value="创建li"/>
+<ul id="ul1">
+    <li>aaaaaaaaa<a href="javascript:">删除</a></li>
+    <li>aaaaaaaaa<a href="javascript:">删除</a></li>
+    <li>aaaaaaaaa<a href="javascript:">删除</a></li>
+    <li>aaaaaaaaa<a href="javascript:">删除</a></li>
+
+</ul>
+</body>
+</html>

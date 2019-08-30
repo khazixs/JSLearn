@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>calender</title>
+    <style>
+        #tab {
+            width: 400px;
+            height: 800px;
+            border: 1px solid black;
+            background: #CCCCCC;
+        }
+
+        #tab ul li {
+            width: 84px;
+            height: 100px;
+            border: 1px solid black;
+            background: black;
+            list-style-type: none;
+            margin: 10px;
+            text-align: center;
+            float: left;
+            color: white;
+        }
+
+        #tab .active {
+            width: 84px;
+            height: 100px;
+            border: 1px solid black;
+            background: white;
+            list-style-type: none;
+            margin: 10px;
+            text-align: center;
+            float: left;
+            color: red;
+        }
+
+        #tab ul {
+            overflow: hidden;
+        }
+
+        #tab div {
+            position: absolute;
+            top: 550px;
+            width: 300px;
+            height: 180px;
+            left: 55px;
+            background: white;
+            text-align: center;
+            z-index: 0;
+        }
+
+        #tab div h2 {
+            top: 20px;
+            height: 20px;
+            z-index: 1;
+
+        }
+    </style>
+    <script>
+        window.onload = function () {
+            let oDiv = document.getElementById('tab');
+            let aLi = oDiv.getElementsByTagName('li');
+            let oTxt = oDiv.getElementsByTagName('div')[0];
+            let arr = ['快过年啦~', '什么都有~', '什么都有~', '什么都有~', '什么都有~', '什么都有~', '什么都有~', '什么都有~', '什么都有~', '什么都有~', '什么都有~', '什么都有~'];
+            for (let i = 0; i < aLi.length; i++) {
+                aLi[i].onmouseover = function () {
+                    for (let i = 0; i < aLi.length; i++) {
+                        aLi[i].className = '';
+                    }
+                    this.className = 'active';
+
+                    document.onkeydown = function (event) {
+                        let e = event || window.event || arguments.callee.caller.arguments[0];
+
+                        if (e && e.keyCode === 27) { // 按 Esc
+                            //要做的事情
+                        }
+                        if (e && e.keyCode === 13) { // enter 键
+                            //要做的事情
+                            arr[i] = prompt('输入活动内容');
+                            /*(function () {
+                                oTxt.innerHTML = '<h2>' + (i + 1) + '月活动' + '</h2>' + '<p>' + `${arr[i]}` + '</P>';
+                            }())*/
+                        }
+                    };
+                    oTxt.innerHTML = '<h2>' + (i + 1) + '月活动' + '</h2>' + '<p>' + `${arr[i]}` + '</P>';
+                };
+            }
+
+            document.getElementById('btn1').onclick = function () {
+                let i = document.getElementById('inp2').value;
+                arr[i - 1] = document.getElementById('inp1').value;
+                for (let i = 0; i < aLi.length; i++) {
+                    aLi[i].className = '';
+                }
+                aLi[i-1].className = 'active';
+                oTxt.innerHTML = '<h2>' + i + '月活动' + '</h2>' + '<p>' + `${arr[i - 1]}` + '</P>';
+            };
+            document.getElementById('btn1').onmouseout = function () {
+                document.getElementById('inp1').value = '';
+                document.getElementById('inp2').value = '';
+
+            }
+        }
+    </script>
+</head>
+<body>
+<input id="inp1" type="text" placeholder="填写活动内容" value="">
+<input id="inp2" type="text" placeholder="填写月份" value="">
+<input id="btn1" type="button" value="添加">
+<div id="tab" class="calender">
+    <ul>
+        <li class="active"><h2>1</h2>
+            <p>JAN</p></li>
+        <li class=""><h2>2</h2>
+            <p>FEB</p></li>
+        <li class=""><h2>3</h2>
+            <p>MAR</p></li>
+        <li class=""><h2>4</h2>
+            <p>APR</p></li>
+        <li class=""><h2>5</h2>
+            <p>MAY</p></li>
+        <li class=""><h2>6</h2>
+            <p>JUN</p></li>
+        <li class=""><h2>7</h2>
+            <p>JUL</p></li>
+        <li class=""><h2>8</h2>
+            <p>AUG</p></li>
+        <li class=""><h2>9</h2>
+            <p>SEP</p></li>
+        <li class=""><h2>10</h2>
+            <p>OCT</p></li>
+        <li class=""><h2>11</h2>
+            <p>NOV</p></li>
+        <li class=""><h2>12</h2>
+            <p>DEC</p></li>
+    </ul>
+
+    <div class="text">
+        <h2>1月活动</h2>
+        <p>快过年啦~</p>
+    </div>
+
+
+</div>
+</body>
+</html>

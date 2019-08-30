@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7528da6a-f3b9-4d95-8661-01b6a8c5b077" name="Default Changelist" comment="yes">
+      <change afterPath="F:/Go/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="F:/Go/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="F:/Go/Calculator/main.go" afterDir="false" />
+      <change afterPath="F:/Go/Calculator/接口.go" afterDir="false" />
+      <change afterPath="F:/Go/MerkleTree/main.go" afterDir="false" />
+      <change afterPath="F:/Go/defer/defer使用.go" afterDir="false" />
+      <change afterPath="F:/Go/defer/test.go" afterDir="false" />
+      <change afterPath="F:/Go/defer/无名返回值情况.go" afterDir="false" />
+      <change afterPath="F:/Go/defer/有名返回值情况.go" afterDir="false" />
+      <change afterPath="F:/Go/fabric-1.1.0-alpha.zip" afterDir="false" />
+      <change afterPath="F:/Go/test/01error接口.go" afterDir="false" />
+      <change afterPath="F:/Go/test/01字符串处理函数.go" afterDir="false" />
+      <change afterPath="F:/Go/test/02panic异常处理.go" afterDir="false" />
+      <change afterPath="F:/Go/test/02字符串类型转换.go" afterDir="false" />
+      <change afterPath="F:/Go/test/03defer延迟调用.go" afterDir="false" />
+      <change afterPath="F:/Go/test/04recover接口.go" afterDir="false" />
+      <change afterPath="F:/Go/test/05文件创建.go" afterDir="false" />
+      <change afterPath="F:/Go/test/06写入文件.go" afterDir="false" />
+      <change afterPath="F:/Go/test/07读取文件.go" afterDir="false" />
+      <change afterPath="F:/Go/test/08文件拷贝.go" afterDir="false" />
+      <change afterPath="F:/Go/test/ECC.go" afterDir="false" />
+      <change afterPath="F:/Go/test/Quicksort.go" afterDir="false" />
+      <change afterPath="F:/Go/test/learn01.go" afterDir="false" />
+      <change afterPath="F:/Go/test/learn02.go" afterDir="false" />
+      <change afterPath="F:/Go/test/solidity.go" afterDir="false" />
+      <change afterPath="F:/Go/test/test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/111.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buffering movement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Delay window.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Digital clock.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-object motion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seamless scrolling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sidebar expansion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addEvent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calender.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom option advanced.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom options.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event binding.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flash.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getByClass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello world.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/huanfu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/huanfu1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/115508.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/19177.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/20658.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/27240114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/324192.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/329386.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/355538.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/520988.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/542935.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/627080.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/647060.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/724769.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/736461.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/742320.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/745025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/82235.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/82239.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/85305.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/91659.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bitcoin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lianjie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/粉色圆形按钮.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/红色圆形按钮.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/蓝色圆形按钮.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/黄色圆形按钮.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn CSS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/move.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rainbow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rotate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startMove.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanwanlanyue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weiboxiaoguo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuanxiangka.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/复选按钮.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/灵活背景定位.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/边框与背景.html" afterDir="false" />
+      <change afterPath="F:/solidity/compile.js" afterDir="false" />
+      <change afterPath="F:/solidity/contract/first.sol" afterDir="false" />
+      <change afterPath="F:/solidity/deploy.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="808143925">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="6" />
+          <entry key="html" value="64" />
+          <entry key="jpg" value="5" />
+          <entry key="js" value="16" />
+          <entry key="png" value="13" />
+          <entry key="ts" value="1" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="6" />
+          <entry key="HTML" value="64" />
+          <entry key="Image" value="18" />
+          <entry key="JavaScript" value="16" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="TypeScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="71" />
+          <entry key="html" value="16011" />
+          <entry key="js" value="1206" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="71" />
+          <entry key="HTML" value="16011" />
+          <entry key="JavaScript" value="1206" />
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1586721830">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="3" />
+          <entry key="js" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="3" />
+          <entry key="JavaScript" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="508" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="508" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="729">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ajax.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/addEvent.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="F:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/鼠标与跟随div.html" />
+        <option value="$PROJECT_DIR$/huanfu1.css" />
+        <option value="$PROJECT_DIR$/huanfu.css" />
+        <option value="$PROJECT_DIR$/tanwanlanyue.html" />
+        <option value="$PROJECT_DIR$/function.html" />
+        <option value="$PROJECT_DIR$/xuanxiangka.html" />
+        <option value="$PROJECT_DIR$/calender.html" />
+        <option value="$PROJECT_DIR$/common.html" />
+        <option value="$PROJECT_DIR$/Delay window.html" />
+        <option value="$PROJECT_DIR$/1.html" />
+        <option value="$PROJECT_DIR$/getByClass.js" />
+        <option value="$PROJECT_DIR$/fragment.html" />
+        <option value="$PROJECT_DIR$/dom option advanced.html" />
+        <option value="$PROJECT_DIR$/mouseanddiv.html" />
+        <option value="$PROJECT_DIR$/Digital clock.html" />
+        <option value="$PROJECT_DIR$/dom options.html" />
+        <option value="$PROJECT_DIR$/Sidebar expansion.html" />
+        <option value="$PROJECT_DIR$/Buffering movement.html" />
+        <option value="$PROJECT_DIR$/Multi-object motion.html" />
+        <option value="$PROJECT_DIR$/move.js" />
+        <option value="$PROJECT_DIR$/flash.html" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/startMove.js" />
+        <option value="$PROJECT_DIR$/search.js" />
+        <option value="$PROJECT_DIR$/hello world.js" />
+        <option value="$PROJECT_DIR$/sum.js" />
+        <option value="$PROJECT_DIR$/rainbow.html" />
+        <option value="$PROJECT_DIR$/Seamless scrolling.html" />
+        <option value="$PROJECT_DIR$/picture.html" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/test2.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="318" />
+    <option name="y" value="80" />
+    <option name="width" value="1391" />
+    <option name="height" value="948" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jsbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsbase" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\jsbase\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\jsbase" />
+      <recent name="F:\jsbase\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.test2.js">
+    <configuration name="hello world.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="hello world.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="search.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="search.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="sum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="sum.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="test2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="test2.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.test.js" />
+      <item itemvalue="Node.js.search.js" />
+      <item itemvalue="Node.js.hello world.js" />
+      <item itemvalue="Node.js.sum.js" />
+      <item itemvalue="Node.js.test2.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.test2.js" />
+        <item itemvalue="Node.js.test.js" />
+        <item itemvalue="Node.js.sum.js" />
+        <item itemvalue="Node.js.hello world.js" />
+        <item itemvalue="Node.js.search.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7528da6a-f3b9-4d95-8661-01b6a8c5b077" name="Default Changelist" comment="" />
+      <created>1533778923076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533778923076</updated>
+      <workItem from="1533778928170" duration="13468000" />
+      <workItem from="1533798212670" duration="3010000" />
+      <workItem from="1533819448369" duration="7657000" />
+      <workItem from="1533863599990" duration="12175000" />
+      <workItem from="1534208437054" duration="10049000" />
+      <workItem from="1534220465690" duration="62000" />
+      <workItem from="1534294445017" duration="9332000" />
+      <workItem from="1534312895173" duration="8439000" />
+      <workItem from="1534382126663" duration="18622000" />
+      <workItem from="1534468761561" duration="2853000" />
+      <workItem from="1534495501718" duration="832000" />
+      <workItem from="1535073816443" duration="1134000" />
+      <workItem from="1535075689994" duration="1091000" />
+      <workItem from="1538649637036" duration="2592000" />
+      <workItem from="1544961211502" duration="1022000" />
+      <workItem from="1544962297996" duration="1770000" />
+      <workItem from="1544964757748" duration="9532000" />
+      <workItem from="1546946023460" duration="446000" />
+      <workItem from="1555597376875" duration="2683000" />
+      <workItem from="1555601508548" duration="126000" />
+      <workItem from="1561352249907" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="106938000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14587738" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.433291" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947146" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32909784" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005285" side_tool="true" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/lianjie.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bitcoin.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/20658.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/蓝色圆形按钮.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/黄色圆形按钮.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.html" />
+    <entry file="file://$PROJECT_DIR$/xuanxiangka.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dom option advanced.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="61" lean-forward="true" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="13" column="170" selection-start-line="13" selection-start-column="170" selection-end-line="13" selection-end-column="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Digital clock.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="818">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Delay window.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common.html" />
+    <entry file="file://$PROJECT_DIR$/calender.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-783">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huanfu.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huanfu1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fuxuananniu.html" />
+    <entry file="file://$PROJECT_DIR$/tanwanlanyue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sidebar expansion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-397">
+          <caret line="62" column="25" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buffering movement.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="55" column="10" lean-forward="true" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mouseanddiv.html" />
+    <entry file="file://$PROJECT_DIR$/sort.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.png" />
+    <entry file="file://$PROJECT_DIR$/电商平台前端接口.png" />
+    <entry file="file://$PROJECT_DIR$/Drag.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html" />
+    <entry file="file://$PROJECT_DIR$/startMove.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="6" column="83" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.txt" />
+    <entry file="file://$PROJECT_DIR$/3.txt" />
+    <entry file="file://$PROJECT_DIR$/2.txt" />
+    <entry file="file://$PROJECT_DIR$/1.txt" />
+    <entry file="file://$PROJECT_DIR$/83.js" />
+    <entry file="file://$PROJECT_DIR$/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/search.js" />
+    <entry file="file://$PROJECT_DIR$/sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello world.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rainbow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2646">
+          <caret line="98" column="5" selection-start-line="77" selection-start-column="4" selection-end-line="98" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getByClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Multi-object motion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5130">
+          <caret line="190" column="7" selection-start-line="190" selection-start-column="7" selection-end-line="190" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/picture.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/move.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rotate.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seamless scrolling.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="121" column="9" lean-forward="true" selection-start-line="121" selection-start-column="9" selection-end-line="121" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dom options.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="30" column="6" lean-forward="true" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flash.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addEvent.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

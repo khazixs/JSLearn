@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-on="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>bM</title>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.16/vue.min.js"></script>
+    <script src="https://cdn.bootcss.com/vue-resource/1.2.1/vue-resource.min.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+    <style>
+        #app {
+            width: 800px;
+            margin: 20px auto;
+        }
+
+        table {
+            width: 800px;
+            border-collapse: collapse;
+            margin: 20px auto;
+        }
+
+        #tb th {
+            background-color: #0094ff;
+            color: white;
+            font-size: 16px;
+            padding: 5px;
+            text-align: center;
+            border: 1px solid black;
+        }
+
+        #tb td {
+            padding: 5px;
+            text-align: center;
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+<div id="app">
+    <input type="text" v-model="pname" v-on:keydown.enter="addData">
+    <button @click="addData">添加品牌数据</button>
+    <input type="text" v-focus placeholder="请输入筛选内容" v-model="sname">
+
+
+    <table id="tb">
+        <tr>
+            <th>编号</th>
+            <th>名称</th>
+            <th>创建时间</th>
+            <th>操作</th>
+        </tr>
+        <tr v-show="list1.length === 0">
+            <td colspan="4">
+                当前列表无数据
+            </td>
+        </tr>
+
+        <tr v-for="(item,index) in list1">
+            <!--当list数组发生改变了，vue.js就会立刻调用v-for重新将数据生成，这样的话，就自动完成了数据的刷新工作       filterBy是系统过滤器在2.0 中已经不可用了，2.0里通用自定义过滤器-->
+            <td>{{index + 1}}</td>
+            <td>{{item.name}}</td>
+            <td>{{item.ctime}}</td>
+            <td>
+                <a href="javascript:void(0)" @click="delData(index)">删除</a>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<script>
+    Vue.directive('focus', {     //Vue.directive自定义指令
+        // 当被绑定的元素插入到 DOM 中时……
+        inserted: function (el) {
+            // 聚焦元素
+            el.focus()
+        }
+    });
+
+    let vm = new Vue({
+        el: '#app',
+        data: {
+            color: 'red',
+            list: [],
+            list1: [],
+            pname: '',
+            sname: ''
+        },
+        watch: {
+            sname(newVal, oldVal) {
+                if (newVal === '') {
+                    this.list1 = [...this.list];
+                } else {
+                    let list1 = [];
+                    for (let key of this.list) {
+                        if (key.name.indexOf(newVal) > -1) {
+                            list1.push(key)
+                        }
+                    }
+                    this.list1 = [...list1];
+                }
+            }
+        },
+        methods: {
+            dateFormat: function (input) {
+                let res = '';
+                let y = input.getFullYear(); //年份
+                let M = JSON.stringify(input.getMonth() + 1); //月份
+                M.length === 1 ? M = `0${M}` : M;
+                let d = JSON.stringify(input.getDate());//日
+                d.length === 1 ? d = `0${d}` : d;
+                let h = input.getHours();//小时
+                let m = input.getMinutes(); //分
+                let s = input.getSeconds(); //秒
+                let q = Math.floor((input.getMonth() + 3) / 3);//季度
+                let ss = input.getMilliseconds();//毫秒
+                res = y + '-' + M + '-' + d;
+
+                return res;
+            },
+            addData: function () {
+                let p = {name: vm.pname, ctime: this.dateFormat(new Date())};
+                this.list.push(p);
+                this.id = 0;
+                this.pname = '';
+                this.list1 = [...this.list];
+                console.log(this.list1)
+            },
+            delData: function (index) {
+                //提醒是否删除
+                if (!confirm('是否要删除数据？')) {
+                    //点了取消就要阻断之后的运行
+                    return;
+                }
+                console.log(this.list);
+                this.list.splice(index, 1);
+                this.list1 = [...this.list];
+                console.log(this.list1);
+            },
+            getlist: function () {
+                this.$http.get('https://www.easy-mock.com/mock/5b62985970818661082f20d9/forfushine/get').then(function (res) {
+                    if (res.body.status !== 0) {
+                        alert(res.body.message);
+                        return
+                    }
+                    this.list = res.body.message;
+                    this.list1 = res.body.message;
+                    console.log(res.body.message.ctime);
+                    return this.list
+                })
+            }
+        },
+        created: function () {
+            this.getlist();
+        }
+    })
+</script>
+</body>
+</html>

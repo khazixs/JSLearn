@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../lib/vue.js"></script>
+</head>
+<body>
+<div id="app">
+    <!--        <my-nav></my-nav>-->
+    <topx></topx>
+    <foot1></foot1>
+    <foot2></foot2>
+</div>
+
+<script>
+    //bus组件,系统总线
+    var bus = new Vue();
+
+    var topx = {
+        template: "<h1 v-on:click='f1'>top组件{{msg}}</h1>",
+        data() {
+            return {
+                msg: 1111
+            }
+        },
+        methods: {
+            f1: function () {
+                bus.$emit('myevent', this.msg);
+            }
+        },
+        created: function () {
+            var that = this;
+            bus.$on("myevent1", function (rs) {
+                that.msg = rs;
+            })
+        }
+    };
+    var foot1 = {
+        template: "<h1 v-on:click='f2'>foot组件{{msg}}</h1>",
+        data() {
+            return {
+                msg: 2222
+            }
+        },
+        created: function () {
+            var that = this;
+            bus.$on("myevent", function (rs) {
+                that.msg = rs;
+            })
+        },
+        methods: {
+            f2: function () {
+                bus.$emit('myevent1', this.msg);
+            }
+        }
+    };
+
+    var foot2 = {
+        template: "<h1>foot组件{{msg}}</h1>",
+        data() {
+            return {
+                msg: 3333
+            }
+        }
+    };
+
+    new Vue({
+        el: "#app",
+        components: {
+            topx,
+            foot1,
+            foot2
+        }
+    })
+
+
+    /* var mynav = {
+         template:'<h1>你好好好好</h1>'
+     };
+     new Vue ({
+         el:"#app",
+         components:{
+             myNav:mynav//属性名采用了驼峰式写法，上边div中组件名使用应加-，尽量全部采用小写
+         }
+     })*///组件的各种声明方式
+
+
+    /*Vue.component("mynav",{
+        template:'<h1>你好好好好</h1>'
+    });
+
+    /!*var app = new Vue({
+        el:"#app"
+        }
+    );*!/
+
+    new Vue().$mount("#app")//另一种挂载方式*/
+
+</script>
+</body>
+</html>

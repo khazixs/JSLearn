@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sidebar expansion</title>
+    <style>
+        #div1 {
+            width: 150px;
+            height: 200px;
+            background: purple;
+            position: absolute;
+            left: -150px;
+        }
+
+        span {
+            width: 20px;
+            height: 65px;
+            background: #CCCCCC;
+            position: absolute;
+            right: -20px;
+            top: 70px;
+        }
+
+        #div2 {
+            width: 150px;
+            height: 200px;
+            background: goldenrod;
+            position: absolute;
+            top: 40px;
+            left: 300px;
+            filter: alpha(opacity:30); /*透明度给IE用的*/
+            opacity: 0.3; /*透明度给FF和chrome用的*/
+        }
+    </style>
+</head>
+<body>
+<div id="div1">
+    <span>分享到</span>
+</div>
+
+<div id="div2">
+
+</div>
+</body>
+<script>
+    let oDiv = document.getElementById('div1');
+    let oDiv2 = document.getElementById('div2');
+    let timer = null;
+    let timer2 = null;
+    let alpha = 30;
+    oDiv2.onmouseover = function () {
+        startmove(100);
+    };
+    oDiv2.onmouseout = function () {
+        startmove(30);
+    };
+
+    function startmove(target2) {
+        let speed = 0;
+        clearTimeout(timer2);
+        timer2 = setInterval(function () {
+            if (alpha < target2) {
+                speed = 1;
+            } else {
+                speed = -1;
+            }
+            if (alpha === target2) {
+                clearTimeout(timer2);
+            } else {
+                alpha += speed;
+                oDiv2.style.filter = `alpha(opacity:${alpha})`;
+                oDiv2.style.opacity = alpha / 100;
+            }
+        })
+
+    }
+
+
+    function move(target) {
+        let speed = 0;
+        if (target < 0) {
+            speed = -10;
+        } else {
+            speed = 10;
+        }
+        clearTimeout(timer);
+        timer = setInterval(function () {
+            if (oDiv.offsetLeft === target) {
+                clearTimeout(timer)
+            } else {
+                oDiv.style.left = oDiv.offsetLeft + speed + 'px';
+            }
+        }, 30)
+    }
+
+    oDiv.onmouseover = function () {
+        move(0)
+    };
+    oDiv.onmouseout = function () {
+        move(-150)
+    }
+</script>
+</html>

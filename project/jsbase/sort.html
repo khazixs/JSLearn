@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+</body>
+<script>
+    let arr = [11,22,33,4,5,67,7,89];
+    /*arr.sort();*/
+    arr.sort(function (n1,n2) {
+       return n1-n2;//解决sort默认按照字符串格式排序的问题
+    });
+    alert(arr);
+</script>
+</html>

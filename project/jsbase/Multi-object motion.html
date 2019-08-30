@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Multi-object motion</title>
+</head>
+<style>
+    #div1 {
+        width: 200px;
+        height: 200px;
+        border: 1px solid black;
+        background-color: red;
+        margin: 20px;
+        float: left;
+    }
+
+    #div2 {
+        width: 200px;
+        height: 200px;
+        border: 1px solid black;
+        background-color: red;
+        margin: 20px;
+        float: left;
+    }
+
+    #div3 {
+        width: 200px;
+        height: 200px;
+        border: 1px solid black;
+        background-color: red;
+        margin: 20px;
+        filter: alpha(opacity:10);
+        opacity: 0.3;
+        float: left;
+    }
+
+    #div4 {
+        width: 200px;
+        height: 200px;
+        border: 1px solid black;
+        background-color: orange;
+        margin: 20px;
+        filter: alpha(opacity:10);
+        opacity: 0.3;
+        float: left;
+    }
+
+    #div5 {
+        width: 200px;
+        height: 200px;
+        border: 1px solid black;
+        background-color: lawngreen;
+        margin: 20px;
+        filter: alpha(opacity:10);
+        opacity: 0.3;
+        float: left;
+    }
+
+    #div6 {
+        position: absolute;
+        left: 240px;
+        top: 300px;
+        width: 200px;
+        height: 200px;
+        border: 1px solid black;
+        background-color: blue;
+        margin: 20px;
+        float: left;
+    }
+
+    #btn1 {
+        position: absolute;
+        top: 250px;
+        left: 240px;
+        margin: 20px;
+        float: left;
+    }
+</style>
+<body>
+<div id="div1"></div>
+<div id="div2"></div>
+<div id="div3"></div>
+<div id="div4"></div>
+<div id="div5"></div>
+<input id="btn1" type="button" value="运动">
+<div id="div6"></div>
+</body>
+<script>
+    window.onload = function () {
+        let oDiv1 = document.getElementById('div1');
+        let oDiv2 = document.getElementById('div2');
+        let oDiv3 = document.getElementById('div3');
+        let oDiv4 = document.getElementById('div4');
+        let oDiv5 = document.getElementById('div5');
+        let oDiv6 = document.getElementById('div6');
+        let oBtn1 = document.getElementById('btn1');
+        oDiv1.onmouseover = function () {
+            startMove(this, 'height', 500)
+        };
+        oDiv1.onmouseout = function () {
+            startMove(this, 'height', 200)
+        };
+        oDiv2.onmouseover = function () {
+            startMove(this, 'width', 500)
+        };
+        oDiv2.onmouseout = function () {
+            startMove(this, 'width', 200)
+        };
+        oDiv3.onmouseover = function () {
+            startMove(this, 'opacity', 100)
+        };
+        oDiv3.onmouseout = function () {
+            startMove(this, 'opacity', 10)
+        };
+        oDiv4.onmouseover = function () {
+            startMove(this, 'opacity', 100)
+        };
+        oDiv4.onmouseout = function () {
+            startMove(this, 'opacity', 10)
+        };
+        oDiv5.onmouseover = function () {
+            startMove(this, 'opacity', 100)
+        };
+        oDiv5.onmouseout = function () {
+            startMove(this, 'opacity', 10)
+        };
+        oBtn1.onclick = function () {
+            startMove(oDiv6, 'left', 800)
+        };
+        oBtn1.ondblclick = function () {
+            startMove(oDiv6, 'left', 240)
+        };
+        //以下函数主要用于获取元素的   非行间属性,行间样式也能获得。   以为之前使用的offset等属性在加入border样式之后会出现问题所以，采用这种方式比较好
+        //  currentStyle：获取计算后的样式，也叫当前样式、终于样式。很遗憾的是，这个好使的东西也不能被各大浏览器完美地支持。准确地说，在我測试的浏览器中，IE8和Opera 11弹出了“object CSSStyleDeclaration”；FF 12、chrome 14、safari 5则弹出“undefined”。
+        // getComputedStyle(obj,false)：在FF新版本号中仅仅须要第一个參数，即操作对象，第二个參数写“false”也是大家通用的写法，目的是为了兼容老版本号的火狐浏览器。
+        //支持currentStyle：IE、Opera
+        //支持getComputedStyle：FireFox、Chrome、Safari
+
+        function getStyle(obj, name) {//两种方式是为了解决兼容问题
+            if (obj.currentStyle) {//microsoft edge 不支持
+                return obj.currentStyle[name];
+            } else {
+                return getComputedStyle(obj, false)[name];
+
+            }
+        }
+
+        function startMove(obj, attr, target) {
+            clearInterval(obj.timer);
+            obj.timer = setInterval(function () {
+                let curAttr = null;
+                if (attr === 'opacity') {
+                    curAttr = Math.round(parseFloat(getStyle(obj, attr)) * 100);
+                } else {
+                    curAttr = parseInt(getStyle(obj, attr));
+                }
+
+                let speed = (target - curAttr) / 50;
+                speed > 0 ? speed = Math.ceil(speed) : speed = Math.floor(speed);
+                if (curAttr === target) {
+                    clearInterval(obj.timer)
+                } else {
+                    if (attr === 'opacity') {
+                        obj.style.filter = `alpha(opacity:${curAttr + speed})`;
+                        obj.style.opacity = (curAttr + speed) / 100;
+                    } else {
+                        obj.style[attr] = curAttr + speed + 'px';
+                    }
+
+
+                }
+            }, 30)
+        }
+
+        function startMoveFilter(obj, attr, target) {
+            clearInterval(obj.timer);
+            obj.timer = setInterval(function () {
+                let speed = (target - obj.alpha) / 30;
+                speed > 0 ? speed = Math.ceil(speed) : speed = Math.floor(speed);
+                if (obj.alpha === target) {
+                    clearInterval(obj.timer)
+                } else {
+                    obj.alpha += speed;
+                    obj.style[attr] = `alpha(opacity:${obj.alpha})`;
+                    obj.style.opacity = obj.alpha / 100;
+                }
+            }, 30)
+        }
+    }
+</script>
+</html>

@@ -1,0 +1,339 @@
+body {
+  background: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0) 48%, rgba(255, 255, 255, 0.05) 50%, rgba(255, 255, 255, 0) 52%), -webkit-linear-gradient(135deg, rgba(255, 255, 255, 0) 48%, rgba(255, 255, 255, 0.05) 50%, rgba(255, 255, 255, 0) 52%);
+  background: linear-gradient(45deg, rgba(255, 255, 255, 0) 48%, rgba(255, 255, 255, 0.05) 50%, rgba(255, 255, 255, 0) 52%), linear-gradient(-45deg, rgba(255, 255, 255, 0) 48%, rgba(255, 255, 255, 0.05) 50%, rgba(255, 255, 255, 0) 52%);
+  -webkit-background-size: 1em 1em;
+  background-size: 1em 1em;
+  background-color: #000;
+  height:100%;
+    width:100%;
+    margin:0;
+    padding:0;
+}
+
+@font-face {/*液晶字体*/
+    font-family: 'ds-digitalbold';
+    src: url('../font/_-webfont.eot');
+    src: url('../font/_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/_-webfont.woff2') format('woff2'),
+         url('../font/_-webfont.woff') format('woff'),
+         url('../font/_-webfont.ttf') format('truetype'),
+         url('../font/_-webfont.svg#ds-digitalbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {/*变现金刚字体*/
+    font-family: 'bankgothic_md_btmedium';
+    src: url('../font/bnkgothm-webfont.eot');
+    src: url('../font/bnkgothm-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/bnkgothm-webfont.woff2') format('woff2'),
+         url('../font/bnkgothm-webfont.woff') format('woff'),
+         url('../font/bnkgothm-webfont.ttf') format('truetype'),
+         url('../font/bnkgothm-webfont.svg#bankgothic_md_btmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {/*圆形字体*/
+    font-family: 'nasalizationregular';
+    src: url('../font/nasalization_rg-webfont.woff2') format('woff2'),
+         url('../font/nasalization_rg-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {/*科幻字体加粗*/
+    font-family: 'transformersregular';
+    src: url('../font/transformers_movie-webfont.woff2') format('woff2'),
+         url('../font/transformers_movie-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/*body {
+    height:100%;
+    width:100%;
+    margin:0;
+    padding:0;
+}*/
+/*左边的样式*/
+.first {
+    padding:0 100px 10px 100px !important;
+}
+.first li {
+    background: url("../image/8.png") 0 36px no-repeat !important;
+    /*-webkit-background-size: 150px 75px;
+    -moz-background-size: 150px 75px;*/
+    background-size: 288px 18px!important;
+    /*background-position: 10px 10px;*/
+}
+.first li label {
+    font-weight: bold !important;
+    font-family: '隶书' !important;
+    font-size: 20px !important;
+    padding:8px 0 !important;
+}
+#left_box {
+    margin: 0;
+    padding:0;
+    position: absolute;
+    z-index: 10;
+    width: 450px;
+    height:300px;
+    /*border: 1px solid #555;*/
+    left: 10px;
+    top: 20px;
+    /*-webkit-border-radius: 1em;
+    -moz-border-radius: 1em;
+    border-radius: 1em;*/
+    color:#fff;
+}
+#left_box ul {
+    /*margin: 10px 0 0 10px;*/
+    margin:0;
+    padding:0;
+    display: inline;
+    /*position: absolute;*/
+    float:left;
+    width:530px;
+    height:70px;
+    /*background-color: rgba(2,255,255,0.8);*/
+    text-align: center;
+    margin:15px 0 15px 10px;
+}
+#left_box ul li {
+    list-style:none;
+    display: inline;
+    float: left;
+    /*margin:10px 5px 10px 0;*/
+    width:254px;
+    height: 70px;
+    /*margin-top: 10px;*/
+    padding-right: 10px;
+    background: no-repeat url("../image/22.png");
+    /*-webkit-background-size: 150px 75px;
+    -moz-background-size: 150px 75px;*/
+    background-size: 267px 68px;
+    overflow: hidden;
+}
+#left_box ul li label {
+    width:120px;
+    height: 70px;
+    float: left;
+    text-align: center;
+    /*margin:10px 0 0 0;*/
+    padding:13px 0px 0 10px;
+}
+#left_box ul li p{
+    /*text-decoration: none;*/
+    font-family: 'ds-digitalbold';
+    padding:7px 0 0 0;
+    width:70px;
+    height:70px;
+    float: left;
+    text-align: center;
+    margin:0 0 0 0;
+    color: #97ffff;
+    font-size: 50px;
+}
+#left_down {
+    position: absolute;
+    /*border: 1px solid #555;
+    -webkit-border-radius: 1em;
+    -moz-border-radius: 1em;
+    border-radius: 1em;*/
+    width:450px;
+    height: 370px;
+    bottom: 10px;
+    left: 10px;
+}
+#bar {
+    z-index: 10;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    width:450px;
+    height: 370px;
+    background: url("../image/11.png") -50px 140px no-repeat;
+    /*-webkit-background-size: 150px 75px;
+    -moz-background-size: 150px 75px;*/
+    background-size: 549px 458px;
+    padding-bottom: 30px;
+}
+
+/*地图*/
+#main {
+    background-color: rgba(0,0,0,0.8);
+    height:100%;
+    width:100%;
+    position: absolute;
+    margin:0;
+    padding:0;
+    top:0;
+}
+
+#legend {
+    z-index: 11;
+    list-style: none;
+    position: relative;
+    left: 33%;
+    top: 20px;
+    height: 100px;
+    width: 550px;
+    padding-left: 24px;
+    background: no-repeat url("../image/1.png");
+    /*-webkit-background-size: 150px 75px;
+    -moz-background-size: 150px 75px;*/
+    background-size: 771px 99px;
+    /*width: 400px;
+    height: 100px*/
+}
+#legend li {
+    
+    margin: 0;
+    padding:5px 10px 5px 10px;
+    width: 100px;
+    height:30px;
+    display: inline;
+    float: left;
+    /*border: 1px solid #555;
+    -webkit-border-radius: 1em;
+    -moz-border-radius: 1em;
+    border-radius: 1em;*/
+    background:url("../image/2.png")  no-repeat;
+    -webkit-background-size: 126px 76px;
+    -moz-background-size: 126px 76px;
+    background-size: 126px 76px;
+}
+#legend li a {
+    font-family: 'transformersregular';
+    color: #73f2e9;
+    text-decoration: none;
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+#legend li a:hover {
+    margin-top: 6px;
+    color: #fff;
+}
+
+#line_box {
+    width:100%;
+    height:300px;
+    z-index: 10;
+    position: absolute;
+    bottom: 10px;
+    background-color: rgba(0,0,0,0);
+    /*left:50px*/;
+}
+
+#right_box {
+    height:400px;
+    width:600px;
+    z-index: 10;
+    position: absolute;
+    right:10px;
+    top:10px;
+    background-color: rgba(0,0,0,0.5);
+    border: 1px solid #555;
+
+    -webkit-border-radius: 1em;
+    -moz-border-radius: 1em;
+    border-radius: 1em;
+
+    -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+    -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+}
+
+#rightdown_box {
+    height:400px;
+    width:600px;
+    z-index: 10;
+    position: absolute;
+    right:10px;
+    bottom:10px;
+    background-color: rgba(0,0,0,0.5);
+    border: 1px solid #555;
+
+    -webkit-border-radius: 1em;
+    -moz-border-radius: 1em;
+    border-radius: 1em;
+
+    -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+    -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+}
+/*loader*/
+#loader {
+    top: 0;
+    left: 0;
+    margin:0;
+    padding:0;
+    height: 100%;
+    width:100%;
+    background-color: rgba(0,0,0,0.4);
+    position: absolute;
+    text-align: center;
+    vertical-align: middle;
+    z-index: 40;
+    /*display: none;*/
+}
+.loader1 {
+    top: 50%;
+    position: absolute;
+   display:inline-block;
+   font-size:0px;
+   padding:0px;
+}
+.loader1 span {
+   vertical-align:middle;
+   border-radius:100%;
+   
+   display:inline-block;
+   width:20px;
+   height:20px;
+   margin:3px 2px;
+   -webkit-animation:loader1 0.8s linear infinite alternate;
+   animation:loader1 0.8s linear infinite alternate;
+}
+.loader1 span:nth-child(1) {
+   -webkit-animation-delay:-1s;
+   animation-delay:-1s;
+  background:rgba(5, 250, 150,0.8);
+}
+.loader1 span:nth-child(2) {
+   -webkit-animation-delay:-0.8s;
+   animation-delay:-0.8s;
+  background:rgba(5, 250, 150,0.8);
+}
+.loader1 span:nth-child(3) {
+   -webkit-animation-delay:-0.26666s;
+   animation-delay:-0.26666s;
+  background:rgba(5, 250, 150,0.8);
+}
+.loader1 span:nth-child(4) {
+   -webkit-animation-delay:-0.8s;
+   animation-delay:-0.8s;
+  background:rgba(5, 250, 150,0.8);
+  
+}
+.loader1 span:nth-child(5) {
+   -webkit-animation-delay:-1s;
+   animation-delay:-1s;
+  background:rgba(5, 250, 150,0.8);
+}
+
+@keyframes loader1 {
+   from {transform: scale(0, 0);}
+   to {transform: scale(1, 1);}
+}
+@-webkit-keyframes loader1 {
+   from {-webkit-transform: scale(0, 0);}
+   to {-webkit-transform: scale(1, 1);}
+}

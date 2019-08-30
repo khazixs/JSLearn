@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <ul id="ul1">
+        <li></li>
+    </ul>
+</body>
+<script>
+    let oUl = document.getElementById('ul1');
+    let oFrag = document.createDocumentFragment();//创建文档碎片用来装插入的子节点，最后再将文档碎片插入到dom里，渲染一次即可，不然若每插入一次渲染一次会有明显的加载和卡顿时间，这样做有利于提升性能。不过在高等级浏览器中几乎无法提升性能，只有在IE6-8有用，所以这个功能会渐渐被放弃。
+
+    for (let i =0;i<10000;i++){
+        let oLi = document.createElement('li');
+        oFrag.appendChild(oLi);
+    }
+    oUl.appendChild(oFrag);
+</script>
+</html>

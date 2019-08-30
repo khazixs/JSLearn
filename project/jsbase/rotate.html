@@ -1,0 +1,27 @@
+<!DOCTYPE html><!--旋转数字1-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+    img {
+        transform:rotateX(120deg);
+        -webkit-transform:rotateX(120deg); /* Safari and Chrome */
+        -moz-transform:rotateX(120deg); /* Firefox */
+    }
+</style>
+<body>
+<img id="img1" src="img/1.png"/>
+</body>
+<script>
+    let a = document.getElementById('img1');
+    var i = 120;
+    setInterval(function () {
+        i += 20;
+        console.log(i);
+        a.style.transform = `rotateX(${i}deg)`;
+    },100)
+</script>
+
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style>
+    #div1 {
+      color:transparent;
+      background:red;
+      opacity: 0.3;
+    }
+  </style>
+</head>
+<body>
+  <p></p>
+  <div id='div1'>
+
+
+  </div>
+</body>
+<script>
+var toArray = function(s){
+  try{
+      return Array.prototype.slice.call(s);
+  } catch(e){
+      var arr = [];
+      for(var i = 0,len = s.length; i < len; i++){
+          arr[i] = s[i];
+      }
+      return arr;
+  }
+}
+let oP = document.getElementsByTagName('p')[0];
+let oDiv = document.getElementsByTagName('div')[0];
+let ss = 'asdawdada';
+oP.innerHTML = toArray(ss);
+oDiv.innerHTML = 'aasdadadwdadasdawda';
+
+</script>
+</html>
